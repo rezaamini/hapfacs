@@ -1,0 +1,4385 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HapFACS</name>
+    </assembly>
+    <members>
+        <member name="T:HapFACS.HapFACSEmotion">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                HapFACSEmotion object simulates the Emotional FACS (EmFACS) emotions
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSEmotion.Happiness(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps EmFACS happiness on the Haptek face with the specified intensity. Highest level of happiness is the combination of AU6B, AU12E, and AU25B.
+            </summary>
+            <param name="intensity"> 
+                Intensity of happiness
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of happiness
+            </param>
+            <returns>
+                Hypertext to map happiness on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSEmotion.Sadness(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps EmFACS sadness on the Haptek face with the specified intensity. Highest level of sadness is the combination of AU1E, AU4E, and AU15E.
+            </summary>
+            <param name="intensity"> 
+                Intensity of sadness
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of sadness
+            </param>
+            <returns>
+                Hypertext to map sadness on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSEmotion.Surprise(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps EmFACS surprise on the Haptek face with the specified intensity. Highest level of surprise is the combination of AU1E, AU2E, AU5B, and AU26E.
+            </summary>
+            <param name="intensity"> 
+                Intensity of surprise
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of surprise
+            </param>
+            <returns>
+                Hypertext to map surprise on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSEmotion.Fear(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps EmFACS fear on the Haptek face with the specified intensity. Highest level of fear is the combination of AU1E, AU2E, AU4E, AU5B, AU20C, and AU26D.
+            </summary>
+            <param name="intensity"> 
+                Intensity of fear
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of fear
+            </param>
+            <returns>
+                Hypertext to map fear on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSEmotion.Anger(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps EmFACS anger on the Haptek face with the specified intensity. Highest level of anger is the combination of AU4D, AU5B, AU7B, AU23A, and AU24B.
+            </summary>
+            <param name="intensity"> 
+                Intensity of anger
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of anger
+            </param>
+            <returns>
+                Hypertext to map anger on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSEmotion.Disgust(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps EmFACS disgust on the Haptek face with the specified intensity. Highest level of disgust is the combination of AU9, AU15, and AU16.
+            </summary>
+            <param name="intensity"> 
+                Intensity of disgust
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of disgust
+            </param>
+            <returns>
+                Hypertext to map disgust on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSEmotion.Contempt(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps EmFACS contempt on the Haptek face with the specified intensity. Highest level of contempt is the combination of AU12R (right) and AU14R (right).
+            </summary>
+            <param name="intensity"> 
+                Intensity of contempt
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of contempt
+            </param>
+            <returns>
+                Hypertext to map contempt on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSEmotion.Embarrassment(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps EmFACS embarrassment on the Haptek face with the specified intensity. Highest level of embarrassment is the combination of AU12C, AU54C, AU62B, and AU64C.
+            </summary>
+            <param name="intensity"> 
+                Intensity of embarrassment
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of embarrassment
+            </param>
+            <returns>
+                Hypertext to map embarrassment on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSEmotion.Pride(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps EmFACS pride on the Haptek face with the specified intensity. Highest level of pride is the combination of AU12B, AU53E, AU58E, and AU64E.
+            </summary>
+            <param name="intensity"> 
+                Intensity of pride
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of pride
+            </param>
+            <returns>
+                Hypertext to map pride on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSEmotion.Neutral">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Resets the facial emotion to neutral.
+            </summary>
+            <returns>
+                Hypertext to reset the facial emotion to neutral
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="T:HapFACS.HapFACS">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                HapFACS object simulate all the Facial Action Coding System Action Units. It includes all the methods needed to manipulate different AUs with different intensities.
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU1(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 1 (Inner Brow Raiser) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 1 (Inner Brow Raiser) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU2(System.String,System.String,System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 2 (Outer Brow Raiser) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="leftIntensity"> 
+                Left intensity of Action Unit activation
+            </param>
+            <param name="rightIntensity"> 
+                Right intensity of Action Unit activation
+            </param>
+            <param name="lastLeftIntensity"> 
+                Previous left intensity of Action Unit activation
+            </param>
+            <param name="lastRightIntensity"> 
+                Previous right intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 2 (Outer Brow Raiser) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU4(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 4 (Brow Lowerer) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 4 (Brow Lowerer) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU5(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 5 (Upper Lid Raiser) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 5 (Upper Lid Raiser) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.resetAU5">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Resets Action Unit 5 (Upper Lid Raiser) on the Haptek face.
+            </summary>
+            <returns>
+                Hypertext to reset Action Unit 5 (Upper Lid Raiser) on the Haptek face.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU6(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 6 (Cheek Raiser and Lid Compressor) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 6 (Cheek Raiser and Lid Compressor) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU7(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 7 (Lid Tightener) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 7 (Lid Tightener) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU8(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 8 (Lips Toward Each Other) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 8 (Lips Toward Each Other) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU9(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 9 (Nose Wrinkler) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 9 (Nose Wrinkler) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU10(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 10 (Upper Lip Raiser) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 10 (Upper Lip Raiser) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU11(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 11 (Nasolabial Furrow Deepener) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 11 (Nasolabial Furrow Deepener) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU12(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 12 (Lip Corner Puller) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 12 (Lip Corner Puller) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.resetAU12">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Resets Action Unit 12 (Lip Corner Puller) on the Haptek face.
+            </summary>
+            <returns>
+                Hypertext to reset Action Unit 12 (Lip Corner Puller) on the Haptek face.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU13(System.String,System.String,System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 13 (Sharp Lip Puller) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="leftIntensity"> 
+                Left intensity of Action Unit activation
+            </param>
+            <param name="rightIntensity"> 
+                Right intensity of Action Unit activation
+            </param>
+            <param name="lastLeftIntensity"> 
+                Previous left intensity of Action Unit activation
+            </param>
+            <param name="lastRightIntensity"> 
+                Previous right intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 13 (Sharp Lip Puller) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU14(System.String,System.String,System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 14 (Dimpler) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="leftIntensity"> 
+                Left intensity of Action Unit activation
+            </param>
+            <param name="rightIntensity"> 
+                Right intensity of Action Unit activation
+            </param>
+            <param name="lastLeftIntensity"> 
+                Previous left intensity of Action Unit activation
+            </param>
+            <param name="lastRightIntensity"> 
+                Previous right intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 14 (Dimpler) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU15(System.String,System.String,System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 15 (Lip Corner Depressor) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="leftIntensity"> 
+                Left intensity of Action Unit activation
+            </param>
+            <param name="rightIntensity"> 
+                Right intensity of Action Unit activation
+            </param>
+            <param name="lastLeftIntensity"> 
+                Previous left intensity of Action Unit activation
+            </param>
+            <param name="lastRightIntensity"> 
+                Previous right intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 15 (Lip Corner Depressor) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.resetAU15">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Resets Action Unit 15 (Lip Corner Depressor) on the Haptek face.
+            </summary>
+            <returns>
+                Hypertext to reset Action Unit 15 (Lip Corner Depressor) on the Haptek face.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU16(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 16 (Lower Lip Depressor) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 16 (Lower Lip Depressor) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU17(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 17 (Chin Raiser) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 17 (Chin Raiser) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU18(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 18 (Lip Pucker) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 18 (Lip Pucker) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU20(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 20 (Lip Stretcher) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 20 (Lip Stretcher) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.resetAU20">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Resets Action Unit 20 (Lip Stretcher) on the Haptek face.
+            </summary>
+            <returns>
+                Hypertext to reset Action Unit 20 (Lip Stretcher) on the Haptek face.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU22(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 22 (Lip Funneler) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 22 (Lip Funneler) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU23(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 23 (Lip Tightener) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 23 (Lip Tightener) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU24(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 24 (Lip Presser) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 24 (Lip Presser) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU25(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 25 (Lips Part) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 25 (Lips Part) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU26(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 26 (Jaw Drop) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 26 (Jaw Drop) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.resetAU26">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Resets Action Unit 26 (Jaw Drop) on the Haptek face.
+            </summary>
+            <returns>
+                Hypertext to reset Action Unit 26 (Jaw Drop) on the Haptek face.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU27(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 27 (Mouth Stretch) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 27 (Mouth Stretch) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU28(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 28 (Lips Suck) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 28 (Lips Suck) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU38(System.String,System.String,System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 38 (Nostril Dilator) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="leftIntensity"> 
+                Left intensity of Action Unit activation
+            </param>
+            <param name="rightIntensity"> 
+                Right intensity of Action Unit activation
+            </param>
+            <param name="lastLeftIntensity"> 
+                Previous left intensity of Action Unit activation
+            </param>
+            <param name="lastRightIntensity"> 
+                Previous right intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 38 (Nostril Dilator) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU39(System.String,System.String,System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 39 (Nostril Compressor) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="leftIntensity"> 
+                Left intensity of Action Unit activation
+            </param>
+            <param name="rightIntensity"> 
+                Right intensity of Action Unit activation
+            </param>
+            <param name="lastLeftIntensity"> 
+                Previous left intensity of Action Unit activation
+            </param>
+            <param name="lastRightIntensity"> 
+                Previous right intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 39 (Nostril Compressor) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU41(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 41 (Glabella Lowerer) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 41 (Glabella Lowerer) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU42(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 42 (Inner Eyebrow Lowerer) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 42 (Inner Eyebrow Lowerer) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU43(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 43 (Eye Closure) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 43 (Eye Closure) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU44(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 44 (Eyebrow Gatherer) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 44 (Eyebrow Gatherer) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU45">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 45 (Blink) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 45 (Blink) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU46(System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 46 (Wink) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="eye"> 
+                The eye (i.e., side) on which the Action Unit will be activated
+            </param>
+            <returns>
+                Hypertext to map Action Unit 46 (Wink) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU51(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 51 (Head Turn Left) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 51 (Head Turn Left) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU52(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 52 (Head Turn Right) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 52 (Head Turn Right) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU53(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 53 (Head Up) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 53 (Head Up) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU54(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 54 (Head Down) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 54 (Head Down) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU55(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 55 (Head Tilt Left) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 55 (Head Tilt Left) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU56(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 56 (Head Tilt Right) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 56 (Head Tilt Right) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU57(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 57 (Head Forward) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 57 (Head Forward) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU58(System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 58 (Head Back) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <param name="lastIntensity"> 
+                Previous intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 58 (Head Back) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AUM59">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit M59 (Head Nod) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit M59 (Head Nod) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AUM60">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit M60 (Head Shake) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="intensity"> 
+                Intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit M60 (Head Shake) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU61(System.String,System.String,System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 61 (Eyes Turn Left) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="leftIntensity"> 
+                Left intensity of Action Unit activation
+            </param>
+            <param name="rightIntensity"> 
+                Right intensity of Action Unit activation
+            </param>
+            <param name="lastLeftIntensity"> 
+                Previous left intensity of Action Unit activation
+            </param>
+            <param name="lastRightIntensity"> 
+                Previous right intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 61 (Eyes Turn Left) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU62(System.String,System.String,System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 62 (Eyes Turn Right) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="leftIntensity"> 
+                Left intensity of Action Unit activation
+            </param>
+            <param name="rightIntensity"> 
+                Right intensity of Action Unit activation
+            </param>
+            <param name="lastLeftIntensity"> 
+                Previous left intensity of Action Unit activation
+            </param>
+            <param name="lastRightIntensity"> 
+                Previous right intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 62 (Eyes Turn Right) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU63(System.String,System.String,System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 63 (Eyes Up) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="leftIntensity"> 
+                Left intensity of Action Unit activation
+            </param>
+            <param name="rightIntensity"> 
+                Right intensity of Action Unit activation
+            </param>
+            <param name="lastLeftIntensity"> 
+                Previous left intensity of Action Unit activation
+            </param>
+            <param name="lastRightIntensity"> 
+                Previous right intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 63 (Eyes Up) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU64(System.String,System.String,System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 64 (Eyes Down) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="leftIntensity"> 
+                Left intensity of Action Unit activation
+            </param>
+            <param name="rightIntensity"> 
+                Right intensity of Action Unit activation
+            </param>
+            <param name="lastLeftIntensity"> 
+                Previous left intensity of Action Unit activation
+            </param>
+            <param name="lastRightIntensity"> 
+                Previous right intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 64 (Eyes Down) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.resetAU64">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Resets Action Unit 64 (Eyes Down) on the Haptek face.
+            </summary>
+            <returns>
+                Hypertext to resets Action Unit 64 (Eyes Down) on the Haptek face.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU65(System.String,System.String,System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 65 (Walleye) on the Haptek face with the specified intensity.
+            </summary>
+            <param name="leftIntensity"> 
+                Left intensity of Action Unit activation
+            </param>
+            <param name="rightIntensity"> 
+                Right intensity of Action Unit activation
+            </param>
+            <param name="lastLeftIntensity"> 
+                Previous left intensity of Action Unit activation
+            </param>
+            <param name="lastRightIntensity"> 
+                Previous right intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 65 (Walleye) on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.AU66(System.String,System.String,System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maps Action Unit 66 on the Haptek face with the specified intensity.
+            </summary>
+            <param name="leftIntensity"> 
+                Left intensity of Action Unit activation
+            </param>
+            <param name="rightIntensity"> 
+                Right intensity of Action Unit activation
+            </param>
+            <param name="lastLeftIntensity"> 
+                Previous left intensity of Action Unit activation
+            </param>
+            <param name="lastRightIntensity"> 
+                Previous right intensity of Action Unit activation
+            </param>
+            <returns>
+                Hypertext to map Action Unit 66 on the Haptek face
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.resetUpperAUs">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Resets all the upper-face Action Units on the Haptek face.
+            </summary>
+            <returns>
+                Hypertext to reset all the upper-face Action Units on the Haptek face.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.resetLowerAUs">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Resets all the lower-face Action Units on the Haptek face.
+            </summary>
+            <returns>
+                Hypertext to reset all the lower-face Action Units on the Haptek face.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.resetHeadAndEyeAUs">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Resets all the head and eye Action Units on the Haptek face.
+            </summary>
+            <returns>
+                Hypertext to reset all the head and eye Action Units on the Haptek face.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.resetAllAUs">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Resets all the Action Units on the Haptek face.
+            </summary>
+            <returns>
+                Hypertext to reset all the Action Units on the Haptek face.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACS.generateFace">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hyper-text for the current values of the AUs
+            </summary>
+            <returns>
+                Hypertext for the current values of the AUs
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.AboutBox.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HapFACS.AboutBox.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:HapFACS.AboutBox.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:HapFACS.HapFACSVideo">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                HapFACSVideo object simulates a video generator which gives us the ability to animate AUs
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.#ctor(System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Creates an object of the Haptek animation given a file address (including the file name).
+            </summary>
+            <param name="fileName"> 
+                Address (including the file name) of the output Haptek animation file.
+            </param>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.setAnimationDuration(System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Sets the animation duration. It cannot set inside the constructor, because at the time of object creation, the animaiton duration is not known yet.
+            </summary>
+            <param name="animationDuration"> 
+                Animation duration.
+            </param>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.convertIntensityToNumber(System.Double,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Converts the intensity label (i.e., 0, A, B, C, D, E) to the numerical value of it based on the maximum value of each Haptek register for a specific AU.
+            </summary>
+            <param name="maxValue"> 
+                Maximum value of the registed for a specific AU.
+            </param>
+            <param name="intensity"> 
+                The intensity label (i.e., 0, A, B, C, D, E) to be converted.
+            </param>
+            <returns>
+                The numerical value of the Haptek register for the input intensity.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.resetAU20">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Resets the variables that activate AU20 to intensity 0
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.generateVideo">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Finishes the generated hypertext for video generation and returns the complete text to be printed to a file
+            </summary>
+            <returns>
+                ArrayList containing the complete text to be printed to a file.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.resetUpperAUs">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Resets registers of all the upper-face Action Units.
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.resetLowerAUs">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Resets registers of all the lower-face Action Units.
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.resetHeadAndEyeAUs">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Resets registers of all the head and eye Action Units.
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.resetAllAUs">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Resets registers of all the Action Units.
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU1Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU1 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU1 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU1 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU1.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU1.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU1 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU2Video(System.String,System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU2 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="side"> 
+                Side of AU2 in the animation. 
+            </param>
+            <param name="startIntensity"> 
+                Start intensity of AU2 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU2 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU2.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU2.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU2 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU4Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU4 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU4 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU4 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU4.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU4.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU4 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU5Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU5 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU5 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU5 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU5.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU5.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU5 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU6Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU6 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU6 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU6 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU6.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU6.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU6 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU7Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU7 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU7 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU7 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU7.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU7.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU7 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU8Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU8 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU8 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU8 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU8.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU8.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU8 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU9Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU9 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU9 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU9 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU9.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU9.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU9 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU10Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author> 
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU10 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU10 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU10 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU10.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU10.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU10 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU11Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU11 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU11 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU11 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU11.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU11.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU11 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU12Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU12 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU12 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU12 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU12.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU12.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU12 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU13Video(System.String,System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU13 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU13 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU13 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU13.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU13.
+            </param>
+            <param name="side"> 
+                Side of AU13 to be animated (i.e., left or right).
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU13 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU14Video(System.String,System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU14 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU14 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU14 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU14.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU14.
+            </param>
+            <param name="side"> 
+                Side of AU14 to be animated (i.e., left or right).
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU14 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU15Video(System.String,System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU15 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU15 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU15 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU15.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU15.
+            </param>
+            <param name="side"> 
+                Side of AU15 to be animated (i.e., left or right).
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU15 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU16Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU16 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU16 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU16 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU16.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU16.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU16 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU17Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU17 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU17 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU17 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU17.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU17.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU17 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU18Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU18 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU18 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU18 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU18.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU18.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU18 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU20Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU20 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU20 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU20 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU20.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU20.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU20 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU22Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU22 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU22 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU22 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU22.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU22.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU22 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU23Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU23 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU23 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU23 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU23.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU23.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU23 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU24Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU24 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU24 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU24 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU24.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU24.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU24 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU25Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU25 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU25 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU25 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU25.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU25.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU25 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU26Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU26 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU26 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU26 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU26.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU26.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU26 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU27Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU27 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU27 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU27 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU27.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU27.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU27 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU28Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU28 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU28 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU28 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU28.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU28.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU28 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU38Video(System.String,System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU38 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU38 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU38 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU38.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU38.
+            </param>
+            <param name="side"> 
+                Side of AU38 to be animated (i.e., left or right).
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU38 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU39Video(System.String,System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU39 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU39 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU39 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU39.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU39.
+            </param>
+            <param name="side"> 
+                Side of AU39 to be animated (i.e., left or right).
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU39 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU41Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU41 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU41 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU41 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU41.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU41.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU41 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU42Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU42 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU42 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU42 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU42.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU42.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU42 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU43Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU43 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU43 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU43 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU43.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU43.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU43 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU44Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU44 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU44 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU44 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU44.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU44.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU44 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU45Video(System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU45 at a specific time.
+            </summary>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU45 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU46Video(System.String,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU45 at a specific time.
+            </summary>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <param name="side"> 
+                Side of AU45 to be animated (i.e., left or right).
+            </param>
+            <returns>
+                The Haptek hypertext including the AU45 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU51Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU51 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU51 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU51 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU51.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU51.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU51 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU52Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU52 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU52 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU52 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU52.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU52.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU52 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU53Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU53 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU53 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU53 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU53.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU53.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU53 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU54Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU54 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU54 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU54 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU54.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU54.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU54 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU55Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU55 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU55 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU55 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU55.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU55.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU55 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU56Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU56 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU56 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU56 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU56.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU56.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU56 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU57Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU57 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU57 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU57 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU57.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU57.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU57 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU58Video(System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU58 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU58 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU58 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU58.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU58.
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU58 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AUM59Video(System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU59 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU59 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AUM60Video(System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU60 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU60 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU61Video(System.String,System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU61 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU61 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU61 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU61.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU61.
+            </param>
+            <param name="side"> 
+                Side of AU61 to be animated (i.e., left or right).
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU61 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU62Video(System.String,System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU62 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU62 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU62 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU62.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU62.
+            </param>
+            <param name="side"> 
+                Side of AU62 to be animated (i.e., left or right).
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU62 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU63Video(System.String,System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU63 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU63 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU63 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU63.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU63.
+            </param>
+            <param name="side"> 
+                Side of AU63 to be animated (i.e., left or right).
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU63 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU64Video(System.String,System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU64 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU64 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU64 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU64.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU64.
+            </param>
+            <param name="side"> 
+                Side of AU64 to be animated (i.e., left or right).
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU64 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU65Video(System.String,System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU65 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU65 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU65 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU65.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU65.
+            </param>
+            <param name="side"> 
+                Side of AU65 to be animated (i.e., left or right).
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU65 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.AU66Video(System.String,System.String,System.String,System.Double,System.Double,System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate AU66 from a starting intensity, to an ending intensity between start time and end time.
+            </summary>
+            <param name="startIntensity"> 
+                Start intensity of AU66 in the animation. 
+            </param>
+            <param name="endIntensity"> 
+                End intensity of AU66 in the animation .
+            </param>
+            <param name="startTime"> 
+                Starting time of animating AU66.
+            </param>
+            <param name="endTime"> 
+                Ending time of animating AU66.
+            </param>
+            <param name="side"> 
+                Side of AU66 to be animated (i.e., left or right).
+            </param>
+            <param name="currentTime"> 
+                Current time in the whole animation which will be created at the end.
+            </param>
+            <returns>
+                The Haptek hypertext including the AU66 animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.HapFACSVideo.SpeakVideo(System.Double,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Generates the hypertext to be added to the Haptek animation file in order to animate speaking at a start time.
+            </summary>
+            <param name="startTime"> 
+                Starting time of animating speaking.
+            </param>
+            <param name="textToSpeak"> 
+                Text to be spoken by the character at the given time.
+            </param>
+            <returns>
+                The Haptek hypertext including the speaking animation until the current time.
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.HapFACS_UserInterface.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HapFACS.HapFACS_UserInterface.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:HapFACS.HapFACS_UserInterface.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:HapFACS.LicenseMenu.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HapFACS.LicenseMenu.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:HapFACS.LicenseMenu.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:HapFACS.Animation">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Animation object simulates an animation involving different sectors, each of which is an AU activation with a given intensity from a given starting time to a given ending time.
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.Animation.#ctor(System.Collections.ArrayList)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Creates an Animation object using an arraylist of AnimationSectors
+            </summary>
+            <param name="animation"> 
+                ArrayList of animation sectors
+            </param>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.Animation.#ctor">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Creates an Animation object. 
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.Animation.addToAnimation(HapFACS.AnimationSector)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Adds a sector to the animation
+            </summary>
+            <param name="sector"> 
+                AnimationSector to be added to the animation
+            </param>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.Animation.getAnimation">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Returns the animation object including all the animation sectors
+            </summary>
+            <returns>
+                Animation ArrayList which contains all the animation sectors
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.Animation.animationLengthExcludingStops">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Gets the length of the animation excluding the stop times between the animation sectors
+            </summary>
+            <returns>
+                Length of the animation excluding the stop times between the animation sectors
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.Animation.animationLengthIncludingStops">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Gets the length of the animation including the stop times between the animation sectors
+            </summary>
+            <returns>
+                Length of the animation including the stop times between the animation sectors
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.Animation.animationStartTime">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Gets the starting time of the animation
+            </summary>
+            <returns>
+                Starting time of the animation
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.Animation.animationStopTime">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Gets the stop time of the animation
+            </summary>
+            <returns>
+                Stop time of the animation
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="T:HapFACS.Constants">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Includes all the constant variables used thoughout the HapFACS
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.AIntensity">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                The number by which the intensity of the AU will be divided when it is activated by intensity "A"
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.BIntensity">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                The number by which the intensity of the AU will be divided when it is activated by intensity "B"
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.CIntensity">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                The number by which the intensity of the AU will be divided when it is activated by intensity "C"
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.DIntensity">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                The number by which the intensity of the AU will be divided when it is activated by intensity "D"
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.MidBrowUD_MAX_AU1">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of MidBrowUD register in AU1
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.LBrowUD_MAX_AU2">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of LBrowUD register in AU2
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.RBrowUD_MAX_AU2">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of RBrowUD register in AU2
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.MidBrowUD_MAX_AU4">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of MidBrowUD register in AU4
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.LBrowUD_MAX_AU4">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of LBrowUD register in AU4
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.RBrowUD_MAX_AU4">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of RBrowUD register in AU4
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.eyes_sad_MAX_AU4">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of eyes_sad register in AU4
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.trust_MAX_AU5">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of trust register in AU5
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.lipcornerL3ty_MAX_AU6">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of lipcornerL3ty register in AU6
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.lipcornerR3ty_MAX_AU6">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of lipcornerR3ty register in AU6
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.smile3_MAX_AU6">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of smile3 register in AU6
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.kiss_MAX_AU6">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of kiss register in AU6
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.distrust_MAX_AU7">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of distrust register in AU7
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.b_MAX_AU8">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of b register in AU8
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilL3ty_MAX_AU9">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilL3ty register in AU9
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilR3ty_MAX_AU9">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilR3ty register in AU9
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilL3tx_MAX_AU9">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilL3tx register in AU9
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilR3tx_MAX_AU9">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilR3tx register in AU9
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.MidBrowUD_MAX_AU9">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of MidBrowUD register in AU9
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.uh_MAX_AU10">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of uh register in AU10
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.ow_MAX_AU10">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of ow register in AU10
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.d_MAX_AU10">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of d register in AU10
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.iy_MAX_AU10">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of iy register in AU10
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilL3ty_MAX_AU10">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilL3ty register in AU10
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilR3ty_MAX_AU10">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilR3ty register in AU10
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilL3tx_MAX_AU10">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilL3tx register in AU10
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilR3tx_MAX_AU10">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilR3ty register in AU10
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilL3tx_MAX_AU11">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilL3tx register in AU11
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilR3tx_MAX_AU11">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilR3tx register in AU11
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.uh_MAX_AU11">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of uh register in AU11
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.d_MAX_AU11">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of d register in AU11
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.smile3_MAX_AU12">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of smile3 register in AU12
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.lipcornerL3ty_MAX_AU13">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of lipcornerL3ty register in AU13
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.lipcornerR3ty_MAX_AU13">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of lipcornerR3ty register in AU13
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.smirk_MAX_AU14">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of smirk register in AU14
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.smirkL_MAX_AU14">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of smirkL register in AU14
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.lipcornerL3ty_MAX_AU15">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of lipcornerL3ty register in AU15
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.lipcornerR3ty_MAX_AU15">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of lipcornerR3ty register in AU15
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.th_MAX_AU16">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of th register in AU16
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.lipcornerL3ty_MAX_AU17">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of lipcornerL3ty register in AU17
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.lipcornerR3ty_MAX_AU17">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of lipcornerR3ty register in AU17
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.aa_MAX_AU17">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of aa register in AU17
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.ow_MAX_AU17">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of ow register in AU17
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.mouth2ty_MAX_AU17">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of mouth2ty register in AU17
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.kiss_MAX_AU18">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of kiss register in AU18
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.lipcornerL3ty_MAX_AU20">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of lipcornerL3ty register in AU20
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.lipcornerR3ty_MAX_AU20">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of lipcornerR3ty register in AU20
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.b_MAX_AU20">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of b register in AU20
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.ow_MAX_AU20">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of ow register in AU20
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.mouth2ty_MAX_AU20">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of mouth2ty register in AU20
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilL3tx_MAX_AU20">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilL3tx register in AU20
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilR3tx_MAX_AU20">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilR3tx register in AU20
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.th_MAX_AU20">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of th register in AU20
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.ch_MAX_AU22">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of ch register in AU22
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.uw_MAX_AU22">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of uw register in AU22
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.b_MAX_AU23">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of b register in AU23
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.b_MAX_AU24">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of b register in AU24
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.kiss_MAX_AU24">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of kiss register in AU24
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.ch_MAX_AU25">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of ch register in AU25
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilL3ty_MAX_AU25">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilL3ty register in AU25
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilR3ty_MAX_AU25">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilR3ty register in AU25
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.aa_MAX_AU26">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of aa register in AU26
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.aa_MAX_AU27">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of aa register in AU27
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.ey_MAX_AU27">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of ey register in AU27
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.b_MAX_AU28">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of b register in AU28
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.d_MAX_AU28">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of d register in AU28
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.f_MAX_AU28">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of f register in AU28
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilL3ty_MAX_AU38">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilL3ty register in AU38
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilR3ty_MAX_AU38">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilR3ty register in AU38
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilL3tx_MAX_AU38">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilL3tx register in AU38
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilR3tx_MAX_AU38">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilR3tx register in AU38
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilL3ty_MAX_AU39">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilL3ty register in AU39
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilR3ty_MAX_AU39">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilR3ty register in AU39
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilL3tx_MAX_AU39">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilL3tx register in AU39
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.nostrilR3tx_MAX_AU39">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of nostrilR3tx register in AU39
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.trust_MAX_AU41">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of trust register in AU41
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.MidBrowUD_MAX_AU42">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "MidBrowUD" register in AU42
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.blink_MAX_AU43">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "blink" register in AU43
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.MidBrowUD_MAX_AU44">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "MidBrowUD" register in AU44
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.LBrowUD_MAX_AU44">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "LBrowUD" register in AU44
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.RBrowUD_MAX_AU44">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "RBrowUD" register in AU44
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.eyes_sad_MAX_AU44">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "eyes_sad" register in AU44
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.HeadTwist_MAX_AU51">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "HeadTwist" register in AU51
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.HeadTwist_MAX_AU52">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "HeadTwist" register in AU52
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.HeadForward_MAX_AU53">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "HeadForward" register in AU53
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.HeadForward_MAX_AU54">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "HeadForward" register in AU54
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.HeadSideBend_MAX_AU55">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "HeadSideBend" register in AU55
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.HeadSideBend_MAX_AU56">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "HeadSideBend" register in AU56
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.HeadForward_MAX_AU57">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "HeadForward" register in AU57
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.NeckForward_MAX_AU57">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "NeckForward" register in AU57
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.HeadForward_MAX_AU58">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "HeadForward" register in AU58
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.NeckForward_MAX_AU58">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "NeckForward" register in AU58
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.LEyeBallLR_MAX_AU61">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "LEyeBallLR" register in AU61
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.REyeBallLR_MAX_AU61">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "REyeBallLR" register in AU61
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.LEyeBallLR_MAX_AU62">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "LEyeBallLR" register in AU62
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.REyeBallLR_MAX_AU62">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "REyeBallLR" register in AU62
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.LEyeBallUD_MAX_AU63">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "LEyeBallUD" register in AU63
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.REyeBallUD_MAX_AU63">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "REyeBallUD" register in AU63
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.LEyeBallUD_MAX_AU64">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "LEyeBallUD" register in AU64
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.REyeBallUD_MAX_AU64">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "REyeBallUD" register in AU64
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.LEyeBallLR_MAX_AU65">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "LEyeBallLR" register in AU65
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.REyeBallLR_MAX_AU65">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "REyeBallLR" register in AU65
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.LEyeBallLR_MAX_AU66">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "LEyeBallLR" register in AU66
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="F:HapFACS.Constants.REyeBallLR_MAX_AU66">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Maximum intensity of "REyeBallLR" register in AU66
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="T:HapFACS.AnimationSector">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                AnimationSector object simulates an animation sector which includes all the information needed to animate an AU
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.AnimationSector.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Creates an AnimationSector for the unilateral AUs which need the side of the AU as a parameter as well as other parameters
+            </summary>
+            <param name="AU"> 
+                The AU to be animated
+            </param>
+            <param name="side"> 
+                Side of the AU to be animated
+            </param>
+            <param name="startIntensity"> 
+                Start intensity of the AU to be animated
+            </param>
+            <param name="endIntensity"> 
+                End intensity of the AU to be animated
+            </param>
+            <param name="startTime"> 
+                Time when the AU activation starts
+            </param>
+            <param name="endTime"> 
+                Time when the AU activation ends
+            </param>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.AnimationSector.#ctor(System.String,System.String,System.String,System.String,System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Creates an AnimationSector for the bilateral AUs which activate both sides of the AU
+            </summary>
+            <param name="AU"> 
+                The AU to be animated
+            </param>
+            <param name="startIntensity"> 
+                Start intensity of the AU to be animated
+            </param>
+            <param name="endIntensity"> 
+                End intensity of the AU to be animated
+            </param>
+            <param name="startTime"> 
+                Time when the AU activation starts
+            </param>
+            <param name="endTime"> 
+                Time when the AU activation ends
+            </param>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.AnimationSector.getAU">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Gets the AU name to be animated
+            </summary>
+            <returns>
+                Name of the AU to be animated
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.AnimationSector.setAU(System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Sets the name of the AU to be animated
+            </summary>
+            <param name="au"> 
+                Name of the AU to be animated
+            </param>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.AnimationSector.getStartTime">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Gets the time (in seconds) when the AU activation starts
+            </summary>
+            <returns>
+                The time (in seconds) when the AU activation starts
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.AnimationSector.setStartTime(System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Sets the time (in seconds) when the AU activation starts
+            </summary>
+            <param name="startTime"> 
+                The time (in seconds) when the AU activation starts
+            </param>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.AnimationSector.getEndTime">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Gets the time (in seconds) when the AU activation ends
+            </summary>
+            <returns>
+                The time (in seconds) when the AU activation ends
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.AnimationSector.setEndTime(System.Double)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Sets the time (in seconds) when the AU activation ends
+            </summary>
+            <param name="endTime"> 
+                The time (in seconds) when the AU activation ends
+            </param>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.AnimationSector.getStartIntensity">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Gets the starting intensity of the AU activation
+            </summary>
+            <returns>
+                The starting intensity of the AU activation
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.AnimationSector.setStartIntensity(System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Sets the starting intensity of the AU activation
+            </summary>
+            <param name="startIntensity"> 
+                The starting intensity of the AU activation
+            </param>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.AnimationSector.getEndIntensity">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Gets the ending intensity of the AU activation
+            </summary>
+            <returns>
+                The ending intensity of the AU activation
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.AnimationSector.setEndIntensity(System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Sets the ending intensity of the AU activation
+            </summary>
+            <param name="endIntensity"> 
+                The ending intensity of the AU activation
+            </param>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.AnimationSector.getSide">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Gets the side of the AU to be activated
+            </summary>
+            <returns>
+                The side of the AU to be activated
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.AnimationSector.setSide(System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Sets the side of the AU to be activated
+            </summary>
+            <param name="side"> 
+                The side of the AU to be activated
+            </param>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.AnimationSector.sectorLength">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Gets the animation sector length in terms of seconds
+            </summary>
+            <returns>
+                The animation sector length in terms of seconds
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.AnimationSector.getTextToSpeak">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Gets the text to be spoken in the animation sector
+            </summary>
+            <returns>
+                The text to be spoken in the animation sector
+            </returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.AnimationSector.setTextToSpeak(System.String)">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                Sets he text to be spoken in the animation sector
+            </summary>
+            <param name="text"> 
+                The text to be spoken in the animation sector
+            </param>
+            <remarks></remarks>
+        </member>
+        <member name="T:HapFACS.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:HapFACS.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:HapFACS.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:HapFACS.Program">
+            <author>
+                Reza Amini (ramin001@fiu.edu) 
+                Affective Social Computing lab at Florida International University
+            </author>
+            <summary>
+                The main entry point for the application.
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:HapFACS.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+    </members>
+</doc>

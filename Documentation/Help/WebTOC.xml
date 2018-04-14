@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="ec2b04b3-0054-4d30-a8d6-0c071b3cd780" Title="HapFACS" Url="html/630c31ff-e0ca-7e49-f49d-b054ff443c25.htm">
+    <HelpTOCNode Id="ba35d5ed-0fbd-47fb-832e-fc0824dab945" Title="AboutBox Class" Url="html/e37d49fb-38c9-af69-6032-bb59366050e2.htm">
+      <HelpTOCNode Title="AboutBox Constructor " Url="html/6e9254af-fed2-826b-4b6c-9ecef8ddd814.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="014a9883-86f4-4c23-9b1f-8402f3a52e11" Title="Animation Class" Url="html/b2b8ec9e-635d-4643-e09b-dbd7888ba8a8.htm">
+      <HelpTOCNode Id="446e5bb7-171b-48d2-8f16-b4eb63ef6965" Title="Animation Constructor " Url="html/f6c13816-8133-917c-06bb-5fb6947b85c0.htm">
+        <HelpTOCNode Title="Animation Constructor " Url="html/69effb63-f4b4-802d-235e-1d2fd88679d1.htm" />
+        <HelpTOCNode Title="Animation Constructor (ArrayList)" Url="html/5848294b-40f2-7631-1c33-a86de3cfa691.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="167ba3b7-28db-43c4-a54c-bb74a3ca66ca" Title="Animation Methods" Url="html/9745aa43-5c84-1806-4b41-b54eb36685c8.htm">
+        <HelpTOCNode Title="addToAnimation Method " Url="html/56bdd4fe-ded5-e94a-fb65-9b7c6b4b470b.htm" />
+        <HelpTOCNode Title="animationLengthExcludingStops Method " Url="html/3f377d65-82f4-079b-c745-8220a59d8782.htm" />
+        <HelpTOCNode Title="animationLengthIncludingStops Method " Url="html/1366271a-2fce-e5bb-e994-b4cb72d6a7ec.htm" />
+        <HelpTOCNode Title="animationStartTime Method " Url="html/26f7571c-c650-10b4-f5c2-d41622bb08a7.htm" />
+        <HelpTOCNode Title="animationStopTime Method " Url="html/c7a909cf-7f1d-336a-d29a-65778e69e1f9.htm" />
+        <HelpTOCNode Title="getAnimation Method " Url="html/bdb07237-b951-d3f3-5ee9-088bf8038d0c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="dbf0f1bd-d46d-4649-816c-a9e9de719192" Title="AnimationSector Class" Url="html/ce9682f6-b677-5125-12b1-829877600dbe.htm">
+      <HelpTOCNode Id="7dc9c380-260b-43f6-aa85-0f27b2d573fd" Title="AnimationSector Constructor " Url="html/96c08707-dd79-f1c2-ff8e-fd9ccd3587ed.htm">
+        <HelpTOCNode Title="AnimationSector Constructor (String, String, String, String, String)" Url="html/e0e68522-8676-663d-bc26-0a5745906d27.htm" />
+        <HelpTOCNode Title="AnimationSector Constructor (String, String, String, String, String, String)" Url="html/7155486e-2a06-762a-df13-bfe978265b0b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="63d7ea1c-106a-473a-add7-b08153a4784c" Title="AnimationSector Methods" Url="html/717d3a2c-ed70-5cb5-21e1-8fb893a3986d.htm">
+        <HelpTOCNode Title="getAU Method " Url="html/07bc3988-f36d-ce8c-99df-9cbaf4ca8f19.htm" />
+        <HelpTOCNode Title="getEndIntensity Method " Url="html/8f734a7c-40b8-89a6-84c5-115a7f112f62.htm" />
+        <HelpTOCNode Title="getEndTime Method " Url="html/4099b793-ea86-4445-1294-92ace7a072cd.htm" />
+        <HelpTOCNode Title="getSide Method " Url="html/3fb34e91-cc7c-8d4c-44e2-81feb7e877a9.htm" />
+        <HelpTOCNode Title="getStartIntensity Method " Url="html/453a768c-3822-4474-f47a-afacbe1990db.htm" />
+        <HelpTOCNode Title="getStartTime Method " Url="html/ad58f691-f259-ee77-6aff-e390d75ba406.htm" />
+        <HelpTOCNode Title="getTextToSpeak Method " Url="html/81c94ee4-e5bb-5e02-2e47-3034467e665e.htm" />
+        <HelpTOCNode Title="sectorLength Method " Url="html/80ce2d16-e0f3-1447-e11c-f9ea37a1f03d.htm" />
+        <HelpTOCNode Title="setAU Method " Url="html/e0e0526b-4b87-0576-c567-bbf91f42999a.htm" />
+        <HelpTOCNode Title="setEndIntensity Method " Url="html/3d0928c1-520b-9f27-3391-8ef1bbc01c8c.htm" />
+        <HelpTOCNode Title="setEndTime Method " Url="html/fc3b509e-c246-864b-7988-8a2da315c1a5.htm" />
+        <HelpTOCNode Title="setSide Method " Url="html/399f3e20-4038-fc9e-3e9c-81277bf0ec0a.htm" />
+        <HelpTOCNode Title="setStartIntensity Method " Url="html/2f275c88-ef90-acc7-8c9e-7e36ff393fd8.htm" />
+        <HelpTOCNode Title="setStartTime Method " Url="html/ae1e1e06-91e7-b30c-b3cb-57eb21ce3526.htm" />
+        <HelpTOCNode Title="setTextToSpeak Method " Url="html/2453d06f-f21a-16e1-4294-c2162a25a674.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="20cfb1b0-6a0a-471d-9606-ba5d77d1f974" Title="Constants Class" Url="html/ed468d4a-b432-f76c-e7d8-afe60f34e0ab.htm">
+      <HelpTOCNode Id="2b50f499-4133-4431-9d3e-e175f7f0dca6" Title="Constants Fields" Url="html/9710d5e0-ca23-e059-41cd-7b0ac7dea57a.htm">
+        <HelpTOCNode Title="aa_MAX_AU17 Field" Url="html/89ef430c-0e83-c9ee-cd28-0eb07cfee6c3.htm" />
+        <HelpTOCNode Title="aa_MAX_AU26 Field" Url="html/20adc88f-15a7-dc05-ee3d-9439ffdf0cfd.htm" />
+        <HelpTOCNode Title="aa_MAX_AU27 Field" Url="html/2187d98e-a232-6e7d-a2dd-4d18e6baea7a.htm" />
+        <HelpTOCNode Title="AIntensity Field" Url="html/69bf27df-30b2-eee3-7989-bd842a1e3443.htm" />
+        <HelpTOCNode Title="b_MAX_AU20 Field" Url="html/4edc5734-2c90-12b5-7f0f-7a9960bfeecd.htm" />
+        <HelpTOCNode Title="b_MAX_AU23 Field" Url="html/4542448b-8f1d-ac96-1830-ee173cab0b8c.htm" />
+        <HelpTOCNode Title="b_MAX_AU24 Field" Url="html/dd25d47d-c960-6789-8c82-e758a57eff66.htm" />
+        <HelpTOCNode Title="b_MAX_AU28 Field" Url="html/ba67a755-708b-41ec-4bc7-748971ec8fd6.htm" />
+        <HelpTOCNode Title="b_MAX_AU8 Field" Url="html/7f3dce4b-69e4-0353-9c74-6e7a82962143.htm" />
+        <HelpTOCNode Title="BIntensity Field" Url="html/63890cb9-0526-612f-9218-004100c1ad59.htm" />
+        <HelpTOCNode Title="blink_MAX_AU43 Field" Url="html/eb5c5495-7ac8-8174-45a0-ef1c521aca78.htm" />
+        <HelpTOCNode Title="ch_MAX_AU22 Field" Url="html/0d31fb33-7a95-3498-d7f5-b35570810282.htm" />
+        <HelpTOCNode Title="ch_MAX_AU25 Field" Url="html/8ce09e2d-1669-e2b6-d565-0405c6eb5c37.htm" />
+        <HelpTOCNode Title="CIntensity Field" Url="html/0db55258-a14c-3bdf-e7f7-5cb30f9cbf6c.htm" />
+        <HelpTOCNode Title="d_MAX_AU10 Field" Url="html/024ec7ee-9676-ef4d-60e2-46b26cc03247.htm" />
+        <HelpTOCNode Title="d_MAX_AU11 Field" Url="html/e8417a67-8465-3c77-b4da-b11c95bfc8c2.htm" />
+        <HelpTOCNode Title="d_MAX_AU28 Field" Url="html/5385920c-78c1-237e-11eb-545a387e785e.htm" />
+        <HelpTOCNode Title="DIntensity Field" Url="html/77d130d3-7eac-790a-fce7-fea97b7df7c3.htm" />
+        <HelpTOCNode Title="distrust_MAX_AU7 Field" Url="html/ae2ee50e-8665-fc2a-1600-c02009c97232.htm" />
+        <HelpTOCNode Title="ey_MAX_AU27 Field" Url="html/b3a01f23-8532-44ff-506a-b7f2c5377579.htm" />
+        <HelpTOCNode Title="eyes_sad_MAX_AU4 Field" Url="html/958a5f30-34b8-0371-5736-c1b85586414a.htm" />
+        <HelpTOCNode Title="eyes_sad_MAX_AU44 Field" Url="html/06afe703-e25e-dc0f-c957-c499e7b1d085.htm" />
+        <HelpTOCNode Title="f_MAX_AU28 Field" Url="html/ff2bb532-36db-c550-e579-5309bb7fbab0.htm" />
+        <HelpTOCNode Title="HeadForward_MAX_AU53 Field" Url="html/4487d884-dfff-ff20-6983-6b2a8df1ecf0.htm" />
+        <HelpTOCNode Title="HeadForward_MAX_AU54 Field" Url="html/dda953aa-4dbc-f2d0-1d7f-a58c44a0ff72.htm" />
+        <HelpTOCNode Title="HeadForward_MAX_AU57 Field" Url="html/e6db5225-9542-4964-8100-dd095b45d599.htm" />
+        <HelpTOCNode Title="HeadForward_MAX_AU58 Field" Url="html/9d3094ca-7fdf-a3fd-eb01-c42de112e26c.htm" />
+        <HelpTOCNode Title="HeadSideBend_MAX_AU55 Field" Url="html/057c519d-7d53-645c-3fbe-844297e6f3fb.htm" />
+        <HelpTOCNode Title="HeadSideBend_MAX_AU56 Field" Url="html/970d2d41-a4a1-e99d-505e-b260bdcca9b0.htm" />
+        <HelpTOCNode Title="HeadTwist_MAX_AU51 Field" Url="html/c9c04392-dd39-3a83-0c37-5999bb97577c.htm" />
+        <HelpTOCNode Title="HeadTwist_MAX_AU52 Field" Url="html/36130ae9-b26f-4771-8ca0-762bcb1a4377.htm" />
+        <HelpTOCNode Title="iy_MAX_AU10 Field" Url="html/1b8ce625-ac6e-6ac9-b0a0-5687a8582042.htm" />
+        <HelpTOCNode Title="kiss_MAX_AU18 Field" Url="html/5b8d52a8-315f-1c52-17f3-dd1039d8a41d.htm" />
+        <HelpTOCNode Title="kiss_MAX_AU24 Field" Url="html/e8a96cc7-eaf7-22d4-500b-5dd5d8fbfd54.htm" />
+        <HelpTOCNode Title="kiss_MAX_AU6 Field" Url="html/ccf7aa66-d224-1700-6d7d-b21235023837.htm" />
+        <HelpTOCNode Title="LBrowUD_MAX_AU2 Field" Url="html/83253a7c-6529-0898-c1f3-8fa0ba7add4b.htm" />
+        <HelpTOCNode Title="LBrowUD_MAX_AU4 Field" Url="html/f8b63464-02be-9523-8c89-b58e2bf00a61.htm" />
+        <HelpTOCNode Title="LBrowUD_MAX_AU44 Field" Url="html/d147aafa-fd96-bfbd-d5d4-c84d6935b988.htm" />
+        <HelpTOCNode Title="LEyeBallLR_MAX_AU61 Field" Url="html/35717208-997d-18e7-1844-c02b1b319326.htm" />
+        <HelpTOCNode Title="LEyeBallLR_MAX_AU62 Field" Url="html/b6d46b0f-a127-2b11-fd98-e10e47591061.htm" />
+        <HelpTOCNode Title="LEyeBallLR_MAX_AU65 Field" Url="html/9242bb54-7161-d0b9-b64a-45e66b98e70d.htm" />
+        <HelpTOCNode Title="LEyeBallLR_MAX_AU66 Field" Url="html/293b36ac-7749-8c77-9190-08616450a16c.htm" />
+        <HelpTOCNode Title="LEyeBallUD_MAX_AU63 Field" Url="html/88139feb-3f24-7f20-b571-eeeda5f981d8.htm" />
+        <HelpTOCNode Title="LEyeBallUD_MAX_AU64 Field" Url="html/a0854ac0-85f2-5c7e-0ceb-6e45207a55f3.htm" />
+        <HelpTOCNode Title="lipcornerL3ty_MAX_AU13 Field" Url="html/32cc37e4-f77a-dd76-dbf0-52bade4530e5.htm" />
+        <HelpTOCNode Title="lipcornerL3ty_MAX_AU15 Field" Url="html/b21821c1-603c-6442-5e53-9a309f8f2d26.htm" />
+        <HelpTOCNode Title="lipcornerL3ty_MAX_AU17 Field" Url="html/9badc717-b90f-2637-e042-d9b00bcc8de3.htm" />
+        <HelpTOCNode Title="lipcornerL3ty_MAX_AU20 Field" Url="html/a61f33f5-ede8-ead7-c0aa-6e76f7d3a8f8.htm" />
+        <HelpTOCNode Title="lipcornerL3ty_MAX_AU6 Field" Url="html/2430de21-56df-af85-937c-dd393eb30a48.htm" />
+        <HelpTOCNode Title="lipcornerR3ty_MAX_AU13 Field" Url="html/cc02c3a3-ef91-2b82-f290-ac916b544580.htm" />
+        <HelpTOCNode Title="lipcornerR3ty_MAX_AU15 Field" Url="html/52b635d3-b579-3703-12fe-9b9ccb0710ca.htm" />
+        <HelpTOCNode Title="lipcornerR3ty_MAX_AU17 Field" Url="html/e858417c-aff9-3fd7-5b84-46238c191ebd.htm" />
+        <HelpTOCNode Title="lipcornerR3ty_MAX_AU20 Field" Url="html/9f17239e-6d64-4c2f-e3ba-7deea4649d86.htm" />
+        <HelpTOCNode Title="lipcornerR3ty_MAX_AU6 Field" Url="html/56b2f87c-3fb1-dd98-954d-5b72268d4a0a.htm" />
+        <HelpTOCNode Title="MidBrowUD_MAX_AU1 Field" Url="html/a32905c9-0701-4b01-38da-ebd452411343.htm" />
+        <HelpTOCNode Title="MidBrowUD_MAX_AU4 Field" Url="html/796f3b70-6875-af7f-f972-b3738ec7a723.htm" />
+        <HelpTOCNode Title="MidBrowUD_MAX_AU42 Field" Url="html/c4707b56-46c7-d48d-d70f-dd0bcfcdcf0f.htm" />
+        <HelpTOCNode Title="MidBrowUD_MAX_AU44 Field" Url="html/3955f250-01a3-e49e-36f1-f1d909f19394.htm" />
+        <HelpTOCNode Title="MidBrowUD_MAX_AU9 Field" Url="html/7bae85dc-6777-1f83-a671-1251c7385a3b.htm" />
+        <HelpTOCNode Title="mouth2ty_MAX_AU17 Field" Url="html/d25787f4-34ab-20a5-ef57-1f10cec71e66.htm" />
+        <HelpTOCNode Title="mouth2ty_MAX_AU20 Field" Url="html/44fe9635-55f5-fd1b-b665-e9bd94f880ed.htm" />
+        <HelpTOCNode Title="NeckForward_MAX_AU57 Field" Url="html/96c1dd2e-4c35-daee-4299-f18bed8d69e7.htm" />
+        <HelpTOCNode Title="NeckForward_MAX_AU58 Field" Url="html/c01f8559-03b0-4b37-a777-7ec97132b122.htm" />
+        <HelpTOCNode Title="nostrilL3tx_MAX_AU10 Field" Url="html/af9950d1-ce96-b555-a6d0-44520c5dfe5c.htm" />
+        <HelpTOCNode Title="nostrilL3tx_MAX_AU11 Field" Url="html/5cd2d55a-5387-5763-3856-89688df69b6e.htm" />
+        <HelpTOCNode Title="nostrilL3tx_MAX_AU20 Field" Url="html/d43e3c39-e682-d463-e425-a709b463a038.htm" />
+        <HelpTOCNode Title="nostrilL3tx_MAX_AU38 Field" Url="html/96aa3ebd-6d8b-419c-e905-95dd8be0089c.htm" />
+        <HelpTOCNode Title="nostrilL3tx_MAX_AU39 Field" Url="html/2e9731db-1370-793b-0191-bf5c6aa73521.htm" />
+        <HelpTOCNode Title="nostrilL3tx_MAX_AU9 Field" Url="html/a77349e7-31b9-421c-879f-a7ae47a3a182.htm" />
+        <HelpTOCNode Title="nostrilL3ty_MAX_AU10 Field" Url="html/04f7fc29-2df4-0c30-a3c6-374cf29ebd58.htm" />
+        <HelpTOCNode Title="nostrilL3ty_MAX_AU25 Field" Url="html/79993462-0461-20ac-5e5d-42a1f4abe8f0.htm" />
+        <HelpTOCNode Title="nostrilL3ty_MAX_AU38 Field" Url="html/c4f00f29-640e-8c7d-d432-c023493310f6.htm" />
+        <HelpTOCNode Title="nostrilL3ty_MAX_AU39 Field" Url="html/a937e777-1957-b448-0ee9-cabe0003ac36.htm" />
+        <HelpTOCNode Title="nostrilL3ty_MAX_AU9 Field" Url="html/ce55df99-8935-929e-f5d7-a8d30a9546de.htm" />
+        <HelpTOCNode Title="nostrilR3tx_MAX_AU10 Field" Url="html/2a4b8f88-8225-36b7-8dd6-d439627e6acc.htm" />
+        <HelpTOCNode Title="nostrilR3tx_MAX_AU11 Field" Url="html/93ef67c6-be51-30f0-f12a-2d6bc94d164c.htm" />
+        <HelpTOCNode Title="nostrilR3tx_MAX_AU20 Field" Url="html/a17f0d8c-783b-8381-1173-9db4f15db5a8.htm" />
+        <HelpTOCNode Title="nostrilR3tx_MAX_AU38 Field" Url="html/9fd036fd-6344-9c65-9890-61737f4a462f.htm" />
+        <HelpTOCNode Title="nostrilR3tx_MAX_AU39 Field" Url="html/c68874dd-9a5e-54c7-d2e0-02716f7ee1ae.htm" />
+        <HelpTOCNode Title="nostrilR3tx_MAX_AU9 Field" Url="html/b11dc0ee-f527-4797-8b45-3a010e64bda1.htm" />
+        <HelpTOCNode Title="nostrilR3ty_MAX_AU10 Field" Url="html/6a9e1139-618e-8c06-ff77-d53c1b32bd85.htm" />
+        <HelpTOCNode Title="nostrilR3ty_MAX_AU25 Field" Url="html/663c80c7-0815-8003-f990-171d3ccaba74.htm" />
+        <HelpTOCNode Title="nostrilR3ty_MAX_AU38 Field" Url="html/a36fc2d2-f90e-8e08-82da-d435fb784173.htm" />
+        <HelpTOCNode Title="nostrilR3ty_MAX_AU39 Field" Url="html/f4a6aa47-2607-07da-1cec-520306873ed3.htm" />
+        <HelpTOCNode Title="nostrilR3ty_MAX_AU9 Field" Url="html/11591401-d493-efb2-693d-d5fd48e4e504.htm" />
+        <HelpTOCNode Title="ow_MAX_AU10 Field" Url="html/dbdd5a4c-261f-694c-2a93-d6c8b0736bf1.htm" />
+        <HelpTOCNode Title="ow_MAX_AU17 Field" Url="html/e25ed317-a69e-2baa-e3db-7e4321d537ae.htm" />
+        <HelpTOCNode Title="ow_MAX_AU20 Field" Url="html/3643e21f-617c-abb9-3498-70c1383a91d1.htm" />
+        <HelpTOCNode Title="RBrowUD_MAX_AU2 Field" Url="html/2423511d-f8be-62f9-ca8b-2fee5300ae79.htm" />
+        <HelpTOCNode Title="RBrowUD_MAX_AU4 Field" Url="html/00117779-bc3c-08b6-f14f-e829db9a9fb7.htm" />
+        <HelpTOCNode Title="RBrowUD_MAX_AU44 Field" Url="html/2fdd4378-8cb6-8a73-52a7-35a60146b7b1.htm" />
+        <HelpTOCNode Title="REyeBallLR_MAX_AU61 Field" Url="html/02c2cf13-eca6-dc7d-799c-65895b7259ae.htm" />
+        <HelpTOCNode Title="REyeBallLR_MAX_AU62 Field" Url="html/c52750c7-edb4-923e-2c42-f35d16523ce5.htm" />
+        <HelpTOCNode Title="REyeBallLR_MAX_AU65 Field" Url="html/ac43410d-fc1a-c7d6-e6fc-6d9dbe0b60a7.htm" />
+        <HelpTOCNode Title="REyeBallLR_MAX_AU66 Field" Url="html/9bfca695-da20-abad-d8a9-ab7a9d458946.htm" />
+        <HelpTOCNode Title="REyeBallUD_MAX_AU63 Field" Url="html/ffc19af4-40cb-788b-53a1-8fde42839635.htm" />
+        <HelpTOCNode Title="REyeBallUD_MAX_AU64 Field" Url="html/9c2a300c-9ad0-a171-2288-674af063d0f1.htm" />
+        <HelpTOCNode Title="smile3_MAX_AU12 Field" Url="html/2ac8db27-e992-46ea-0953-2391f8f5c20c.htm" />
+        <HelpTOCNode Title="smile3_MAX_AU6 Field" Url="html/34e11222-3e53-a983-f881-4963b81f189a.htm" />
+        <HelpTOCNode Title="smirk_MAX_AU14 Field" Url="html/8abce071-0e69-2fd3-e3b9-e876b8485502.htm" />
+        <HelpTOCNode Title="smirkL_MAX_AU14 Field" Url="html/bdaa5d64-93e4-a738-6219-00a066f86659.htm" />
+        <HelpTOCNode Title="th_MAX_AU16 Field" Url="html/20571b6a-d778-ec61-8f3f-abd91e972b0d.htm" />
+        <HelpTOCNode Title="th_MAX_AU20 Field" Url="html/3b92681a-ae55-f6d7-cc59-672b0d1d375b.htm" />
+        <HelpTOCNode Title="trust_MAX_AU41 Field" Url="html/776b0507-4cda-894a-4f49-123ddc6ffade.htm" />
+        <HelpTOCNode Title="trust_MAX_AU5 Field" Url="html/02d88c01-b419-0d0b-7e9d-ad52b053f2dd.htm" />
+        <HelpTOCNode Title="uh_MAX_AU10 Field" Url="html/1f9f6f3e-5573-f57d-16b1-5dfa0f2c1fd8.htm" />
+        <HelpTOCNode Title="uh_MAX_AU11 Field" Url="html/8fda156b-67c1-bd30-d6c9-c9288ed7e3d1.htm" />
+        <HelpTOCNode Title="uw_MAX_AU22 Field" Url="html/02962f6f-fabf-e285-26b3-9ca81c059934.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b36389c2-ff26-4ff5-b5f1-8a311a1244b5" Title="HapFACS Class" Url="html/a6f21c47-e2c9-f63f-7479-2afaeab87aaa.htm">
+      <HelpTOCNode Title="HapFACS Constructor " Url="html/d1b97049-86be-e6a1-81e0-f1135daaab43.htm" />
+      <HelpTOCNode Id="ab66e765-6610-448d-b336-a17df0ef0660" Title="HapFACS Methods" Url="html/35f428d7-9bea-054d-2da7-4481308c6391.htm">
+        <HelpTOCNode Title="AU1 Method " Url="html/475fb639-73ab-a60c-ae46-717501868086.htm" />
+        <HelpTOCNode Title="AU10 Method " Url="html/dafa6549-5b5c-4784-2996-6d3163f95730.htm" />
+        <HelpTOCNode Title="AU11 Method " Url="html/48ccdfa9-dcc7-2255-7175-26ce3fda454e.htm" />
+        <HelpTOCNode Title="AU12 Method " Url="html/8d5b33f2-3e58-15c9-97e0-61753df5e813.htm" />
+        <HelpTOCNode Title="AU13 Method " Url="html/d2792fbf-d381-8225-5a7e-d2db52bd4d69.htm" />
+        <HelpTOCNode Title="AU14 Method " Url="html/22967d9c-dc85-a99a-94ca-9ec1fce78a8d.htm" />
+        <HelpTOCNode Title="AU15 Method " Url="html/53e84544-b744-0c35-0696-0ee52429edf8.htm" />
+        <HelpTOCNode Title="AU16 Method " Url="html/52c6b06b-5514-851d-91bd-0f8d2147b7dc.htm" />
+        <HelpTOCNode Title="AU17 Method " Url="html/bbd30fe1-994b-618d-9786-63df0beb213c.htm" />
+        <HelpTOCNode Title="AU18 Method " Url="html/39fd767e-50d2-4e9f-fdca-097c1e4ec855.htm" />
+        <HelpTOCNode Title="AU2 Method " Url="html/830bd5ed-6dcd-c4e3-93a6-409c4a2e3ddd.htm" />
+        <HelpTOCNode Title="AU20 Method " Url="html/75c7d33b-ac7a-c1de-2389-4be081e2243f.htm" />
+        <HelpTOCNode Title="AU22 Method " Url="html/ebe9e599-d9c5-09b5-e714-d8671a0bba90.htm" />
+        <HelpTOCNode Title="AU23 Method " Url="html/03f05c1d-2ca7-1c95-582b-1518886ffb3d.htm" />
+        <HelpTOCNode Title="AU24 Method " Url="html/8d39f2de-9bda-5ea2-9c11-37da67806a73.htm" />
+        <HelpTOCNode Title="AU25 Method " Url="html/ffbc7740-9988-ede3-d6e6-98bc7b0dc2e2.htm" />
+        <HelpTOCNode Title="AU26 Method " Url="html/d20dbdb6-7796-f131-2996-2cd1f12a9e70.htm" />
+        <HelpTOCNode Title="AU27 Method " Url="html/a681e173-3d37-d0f5-a37b-4fdbde3a2019.htm" />
+        <HelpTOCNode Title="AU28 Method " Url="html/ddf27469-89b6-ca7a-45a8-bd6f441a29c9.htm" />
+        <HelpTOCNode Title="AU38 Method " Url="html/288f3826-0eaa-2df9-f59f-4c8edd694d95.htm" />
+        <HelpTOCNode Title="AU39 Method " Url="html/d373f7a6-b612-b41d-22ed-ffc01497a69a.htm" />
+        <HelpTOCNode Title="AU4 Method " Url="html/fd6a3a09-a4e1-9e88-808a-d024ff9194ca.htm" />
+        <HelpTOCNode Title="AU41 Method " Url="html/4dbb2ae0-1aea-4f55-be6f-709626cc3b4b.htm" />
+        <HelpTOCNode Title="AU42 Method " Url="html/74aa9b7c-7b8b-762d-1166-5b1404d5e938.htm" />
+        <HelpTOCNode Title="AU43 Method " Url="html/4aca889f-2198-f538-ff0d-70aa7106bbeb.htm" />
+        <HelpTOCNode Title="AU44 Method " Url="html/5b9379f6-36ef-016f-e7e0-9bffee967ab2.htm" />
+        <HelpTOCNode Title="AU45 Method " Url="html/dc299908-3b74-97cd-d4e4-963085512760.htm" />
+        <HelpTOCNode Title="AU46 Method " Url="html/81b8b81c-1eb6-eccd-8404-012e872c5b88.htm" />
+        <HelpTOCNode Title="AU5 Method " Url="html/bc4e5d7e-0248-75d8-040a-8835930b6611.htm" />
+        <HelpTOCNode Title="AU51 Method " Url="html/a96f0aa5-80a0-a61a-70ed-d47664475d76.htm" />
+        <HelpTOCNode Title="AU52 Method " Url="html/8cf450f9-f0f5-535b-8034-a3a7fdb5f4f1.htm" />
+        <HelpTOCNode Title="AU53 Method " Url="html/2a09ed8c-5967-478f-42f6-139a3a49c647.htm" />
+        <HelpTOCNode Title="AU54 Method " Url="html/6fa0386e-4552-b0ba-5731-b342c0bfcfe7.htm" />
+        <HelpTOCNode Title="AU55 Method " Url="html/c20c1877-c17f-bc39-9dc6-4be1454502cc.htm" />
+        <HelpTOCNode Title="AU56 Method " Url="html/18adda01-df4d-bbd8-5a55-82ac2e398cd6.htm" />
+        <HelpTOCNode Title="AU57 Method " Url="html/5477b0e0-c1f3-cacc-d8e2-b7b89c16d051.htm" />
+        <HelpTOCNode Title="AU58 Method " Url="html/e198d040-f985-aac8-008b-799bfc7c41f7.htm" />
+        <HelpTOCNode Title="AU6 Method " Url="html/e60c10dc-8047-45cb-9787-fe0a5f1c65ff.htm" />
+        <HelpTOCNode Title="AU61 Method " Url="html/a0a7380c-10d8-5ed8-8440-8a07356778eb.htm" />
+        <HelpTOCNode Title="AU62 Method " Url="html/b9326124-081b-e0c6-78c9-3dfdd0d2646a.htm" />
+        <HelpTOCNode Title="AU63 Method " Url="html/21d1f18c-8c8b-b83d-5350-c95ba4a27adf.htm" />
+        <HelpTOCNode Title="AU64 Method " Url="html/69d7e7c2-178d-6de7-738e-dc8479739cb0.htm" />
+        <HelpTOCNode Title="AU65 Method " Url="html/cc1f8cc8-b327-d99c-f33c-beba4a3320dc.htm" />
+        <HelpTOCNode Title="AU66 Method " Url="html/e0298161-6d8e-77a1-4039-83d74692d239.htm" />
+        <HelpTOCNode Title="AU7 Method " Url="html/5e776c01-56aa-7448-7fad-b90f86c6a874.htm" />
+        <HelpTOCNode Title="AU8 Method " Url="html/3d2d1532-3717-da7a-0b00-44e0f610d173.htm" />
+        <HelpTOCNode Title="AU9 Method " Url="html/67cbe5a7-013e-9100-48ca-964274127003.htm" />
+        <HelpTOCNode Title="AUM59 Method " Url="html/816fe788-560a-103f-7d94-71b8af8f733f.htm" />
+        <HelpTOCNode Title="AUM60 Method " Url="html/313bf73b-21c7-a4cf-68eb-4aa53ed6d451.htm" />
+        <HelpTOCNode Title="generateFace Method " Url="html/8701f449-9a19-87e2-c717-8cbc9de24169.htm" />
+        <HelpTOCNode Title="resetAllAUs Method " Url="html/fea5e89f-d0ae-9500-6123-09c5cefab8ab.htm" />
+        <HelpTOCNode Title="resetAU12 Method " Url="html/cd69ce06-be22-0a24-5957-d5f17a48a022.htm" />
+        <HelpTOCNode Title="resetAU15 Method " Url="html/08194b99-2e58-81b1-cf96-8a5fa166610b.htm" />
+        <HelpTOCNode Title="resetAU20 Method " Url="html/3156f4b3-04b0-b78b-40c7-42e6e6630446.htm" />
+        <HelpTOCNode Title="resetAU26 Method " Url="html/d1666608-7ddf-30a1-2f64-c5d63424296a.htm" />
+        <HelpTOCNode Title="resetAU5 Method " Url="html/9ab1ddaf-aae3-4c7f-362a-0263ca8902f8.htm" />
+        <HelpTOCNode Title="resetAU64 Method " Url="html/85887ed2-994c-b577-7909-cc1f2666c022.htm" />
+        <HelpTOCNode Title="resetHeadAndEyeAUs Method " Url="html/8ec3aade-04e8-be49-9d39-75aa3e485e0c.htm" />
+        <HelpTOCNode Title="resetLowerAUs Method " Url="html/0132a53e-3093-b009-9865-f79031ea95b1.htm" />
+        <HelpTOCNode Title="resetUpperAUs Method " Url="html/ade4892f-1d20-6f06-962a-70ed0526d5bb.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="255ac304-9cad-4d4f-a318-8297f0d6f0ce" Title="HapFACS_UserInterface Class" Url="html/d9742399-8272-cbbe-f6dd-ef6fc6e0c418.htm">
+      <HelpTOCNode Title="HapFACS_UserInterface Constructor " Url="html/9712f8b3-7941-adc3-c291-1af90000c619.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="60db2060-1cae-4914-8118-7c24ee689c38" Title="HapFACSEmotion Class" Url="html/47cfac5e-938a-32f5-115e-954d032af54b.htm">
+      <HelpTOCNode Title="HapFACSEmotion Constructor " Url="html/1714bbaa-6829-9366-5113-25f6288048a1.htm" />
+      <HelpTOCNode Id="1067c5c2-e713-4dbf-9156-42ed8a7eb0a2" Title="HapFACSEmotion Methods" Url="html/0dee9ed1-f4c1-e953-0d29-86749c560d7d.htm">
+        <HelpTOCNode Title="Anger Method " Url="html/b2f2fbd8-af92-2700-db4e-cceb70c4926c.htm" />
+        <HelpTOCNode Title="Contempt Method " Url="html/a1f4c4e5-68a2-82af-9aa4-00317804c836.htm" />
+        <HelpTOCNode Title="Disgust Method " Url="html/bb41a572-aba2-4456-b279-73a99c6035e8.htm" />
+        <HelpTOCNode Title="Embarrassment Method " Url="html/d257d8ea-204a-2dd4-720e-a4ef62c6d76b.htm" />
+        <HelpTOCNode Title="Fear Method " Url="html/19521593-12e9-2e09-0901-c07e5c00eb51.htm" />
+        <HelpTOCNode Title="Happiness Method " Url="html/466cb4b1-457b-199a-304c-603b440ebc9d.htm" />
+        <HelpTOCNode Title="Neutral Method " Url="html/56abf6cc-ddc3-f731-2db5-55969ca9c814.htm" />
+        <HelpTOCNode Title="Pride Method " Url="html/e3157f44-84fc-c68b-0fde-36b52ad373ee.htm" />
+        <HelpTOCNode Title="Sadness Method " Url="html/2e8c94b6-2430-257c-da1f-81ca18b7e601.htm" />
+        <HelpTOCNode Title="Surprise Method " Url="html/04cd4b66-56c5-9a49-d571-56df41707034.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ed4ee649-fd6d-4aa8-b398-b9e6f31a8c09" Title="HapFACSVideo Class" Url="html/97496464-3663-7a14-601f-c9bd64769485.htm">
+      <HelpTOCNode Title="HapFACSVideo Constructor " Url="html/b52e2447-29cd-4c12-6ce4-c1e63c1090a5.htm" />
+      <HelpTOCNode Id="a6c2b6a1-7946-409f-86c1-cd982aea9646" Title="HapFACSVideo Methods" Url="html/e82434fc-ad64-8e2a-775a-77d61355a8e9.htm">
+        <HelpTOCNode Title="AU10Video Method " Url="html/fc36ddbd-6a99-cb23-e4ae-e6fe6455effb.htm" />
+        <HelpTOCNode Title="AU11Video Method " Url="html/fc84733e-eae7-a810-a865-f0f5630f2059.htm" />
+        <HelpTOCNode Title="AU12Video Method " Url="html/2d66473a-cd33-ebd4-a6d8-ee7a90f3509a.htm" />
+        <HelpTOCNode Title="AU13Video Method " Url="html/c799d099-957d-3403-4057-2ba554ccd4b5.htm" />
+        <HelpTOCNode Title="AU14Video Method " Url="html/799734a9-553e-7769-9027-e3c0fdded27e.htm" />
+        <HelpTOCNode Title="AU15Video Method " Url="html/bfb23674-d2db-a91c-223c-4da8b6fc9be0.htm" />
+        <HelpTOCNode Title="AU16Video Method " Url="html/90600ade-39b2-fc04-a092-35afaa9bc2e2.htm" />
+        <HelpTOCNode Title="AU17Video Method " Url="html/f9927124-a579-ab30-55ba-ef53b2c650fd.htm" />
+        <HelpTOCNode Title="AU18Video Method " Url="html/f6b9070d-5802-d0f1-5b55-776b4693a48c.htm" />
+        <HelpTOCNode Title="AU1Video Method " Url="html/ac65a93f-b0b8-18fc-8b49-97e28d803665.htm" />
+        <HelpTOCNode Title="AU20Video Method " Url="html/d506724a-1ed9-9a69-794d-96fc38acaedd.htm" />
+        <HelpTOCNode Title="AU22Video Method " Url="html/bc46d1ae-e11a-677d-7c01-9f1679645ab7.htm" />
+        <HelpTOCNode Title="AU23Video Method " Url="html/4fe4dcf1-a234-4f30-8f7d-19b791ed10bf.htm" />
+        <HelpTOCNode Title="AU24Video Method " Url="html/17e9ab50-1b66-84eb-0dd6-8cda165802c7.htm" />
+        <HelpTOCNode Title="AU25Video Method " Url="html/6fe57517-cfcb-364d-273e-cf5a1385317b.htm" />
+        <HelpTOCNode Title="AU26Video Method " Url="html/eec16474-f850-8b79-6808-abb98320ea50.htm" />
+        <HelpTOCNode Title="AU27Video Method " Url="html/39b5ac04-5160-efe1-047b-0de19cb92762.htm" />
+        <HelpTOCNode Title="AU28Video Method " Url="html/c561df12-3b6d-d9bd-2a21-20e1394a3dae.htm" />
+        <HelpTOCNode Title="AU2Video Method " Url="html/848de089-7be0-d04a-ef07-26744571bcf1.htm" />
+        <HelpTOCNode Title="AU38Video Method " Url="html/c67e773f-76a5-6bec-92c4-6a398c6e208d.htm" />
+        <HelpTOCNode Title="AU39Video Method " Url="html/79704a43-ef28-bf5a-7ec1-ead9b3af00f6.htm" />
+        <HelpTOCNode Title="AU41Video Method " Url="html/6c14975b-6e15-4cc5-e7d6-f4b73efbd873.htm" />
+        <HelpTOCNode Title="AU42Video Method " Url="html/f3b68181-3a48-0c5b-4ae2-6ca946a66e64.htm" />
+        <HelpTOCNode Title="AU43Video Method " Url="html/6dcad5dc-e7a3-eeaa-ef6d-ad124ac1fe2f.htm" />
+        <HelpTOCNode Title="AU44Video Method " Url="html/8099155b-786c-b5f7-fe26-aa35a9133197.htm" />
+        <HelpTOCNode Title="AU45Video Method " Url="html/05fc5983-664e-f87d-e014-0ba21bc563ea.htm" />
+        <HelpTOCNode Title="AU46Video Method " Url="html/e777ccd5-fe58-cbde-884f-c56c989e5472.htm" />
+        <HelpTOCNode Title="AU4Video Method " Url="html/16f7d796-f9ea-899e-71b7-0ed0161dc905.htm" />
+        <HelpTOCNode Title="AU51Video Method " Url="html/e5f136f3-9b1a-de20-922e-082e3944024b.htm" />
+        <HelpTOCNode Title="AU52Video Method " Url="html/b2b74200-1e7f-4745-2042-7f7b31519a51.htm" />
+        <HelpTOCNode Title="AU53Video Method " Url="html/045acd69-bf0e-10e4-fb31-a316217c4780.htm" />
+        <HelpTOCNode Title="AU54Video Method " Url="html/c836fe23-3033-c67c-3e24-5c9975c1d0d4.htm" />
+        <HelpTOCNode Title="AU55Video Method " Url="html/89598201-d152-a94a-ea53-98cb1d748e1e.htm" />
+        <HelpTOCNode Title="AU56Video Method " Url="html/89208abb-ef98-5d8d-919d-033d106e4e14.htm" />
+        <HelpTOCNode Title="AU57Video Method " Url="html/9f071be0-2332-57ee-c125-3bd7a1224c1c.htm" />
+        <HelpTOCNode Title="AU58Video Method " Url="html/88ef23ef-b00e-9696-7e07-d9e2824508e0.htm" />
+        <HelpTOCNode Title="AU5Video Method " Url="html/70324d3f-910a-e838-c036-c600c47582d3.htm" />
+        <HelpTOCNode Title="AU61Video Method " Url="html/20f7cba7-83c1-eaec-2904-d1a66aa9b4dd.htm" />
+        <HelpTOCNode Title="AU62Video Method " Url="html/014dd62a-9c53-e41f-7a27-640a401e3484.htm" />
+        <HelpTOCNode Title="AU63Video Method " Url="html/7354f684-818b-2179-be39-73168d9f83bd.htm" />
+        <HelpTOCNode Title="AU64Video Method " Url="html/f97484c1-b552-3265-c047-75b830b723d9.htm" />
+        <HelpTOCNode Title="AU65Video Method " Url="html/ef0e686e-8f59-00d7-6c1f-da52ce191cd7.htm" />
+        <HelpTOCNode Title="AU66Video Method " Url="html/0ebd43ad-f26a-f9c9-a527-d03d3547fbc0.htm" />
+        <HelpTOCNode Title="AU6Video Method " Url="html/a0d32af7-8bb0-c3b2-01c0-821e41a34697.htm" />
+        <HelpTOCNode Title="AU7Video Method " Url="html/f59822df-463c-824b-d11e-c8cc42ffa901.htm" />
+        <HelpTOCNode Title="AU8Video Method " Url="html/5fdb4659-34d3-9560-c526-e9d45f190367.htm" />
+        <HelpTOCNode Title="AU9Video Method " Url="html/87f8d3ba-f6f7-9e78-e924-ec868951ed11.htm" />
+        <HelpTOCNode Title="AUM59Video Method " Url="html/23eee3f5-1b47-9bbf-fb56-bae0cf122141.htm" />
+        <HelpTOCNode Title="AUM60Video Method " Url="html/f197b78e-b93e-66af-6496-6a117e8a2df2.htm" />
+        <HelpTOCNode Title="convertIntensityToNumber Method " Url="html/cf548451-16d5-180c-2fbd-adfd543b14e8.htm" />
+        <HelpTOCNode Title="generateVideo Method " Url="html/b068fd9c-af8c-228b-9e77-9728e1576ed8.htm" />
+        <HelpTOCNode Title="resetAllAUs Method " Url="html/625db3e8-9437-9efc-aebf-8707c64eb5a4.htm" />
+        <HelpTOCNode Title="resetAU20 Method " Url="html/7187b007-3f3b-2a21-178c-88b20c123951.htm" />
+        <HelpTOCNode Title="resetHeadAndEyeAUs Method " Url="html/1ba647d9-809f-ba16-18a2-82be2bbba8c3.htm" />
+        <HelpTOCNode Title="resetLowerAUs Method " Url="html/ad0ae380-4ad3-9f91-73b9-55ea1ca70098.htm" />
+        <HelpTOCNode Title="resetUpperAUs Method " Url="html/6f130c5e-03bd-9c39-5992-535db6801752.htm" />
+        <HelpTOCNode Title="setAnimationDuration Method " Url="html/7dede842-6218-b724-70a0-c87e36b6a6a1.htm" />
+        <HelpTOCNode Title="SpeakVideo Method " Url="html/9e8e72be-7292-f4f6-2fbb-2e2d400c9bb6.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="62454a69-a531-4f66-bfd5-57ee976c7a50" Title="LicenseMenu Class" Url="html/8fbdb91e-10a3-d4f1-681c-796ea8ff5f0f.htm">
+      <HelpTOCNode Title="LicenseMenu Constructor " Url="html/312a695e-caf3-e591-a204-9ba25a7540fc.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="Program Class" Url="html/371ebf68-6738-8123-e140-6de5564c6236.htm" />
+  </HelpTOCNode>
+</HelpTOC>

@@ -1,0 +1,166 @@
+C:\Users\Guido\Google Drive\HapFACS-ExtendedVersion\HapFACS\HapFACS\obj\x86\Debug\Interop.ACTIVEHAPTEKXLib.dll
+C:\Users\Guido\Google Drive\HapFACS-ExtendedVersion\HapFACS\HapFACS\obj\x86\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+C:\Users\Guido\Google Drive\HapFACS-ExtendedVersion\HapFACS\HapFACS\obj\x86\Debug\HapFACS.csproj.ResolveComReference.cache
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS\HapFACS\bin\Debug\HapFACS.XML
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS\HapFACS\obj\x86\Debug\Interop.ACTIVEHAPTEKXLib.dll
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS\HapFACS\obj\x86\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS\HapFACS\obj\x86\Debug\HapFACS.csproj.ResolveComReference.cache
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS\HapFACS\obj\x86\Debug\HapFACS.exe
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS\HapFACS\obj\x86\Debug\HapFACS.pdb
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS\HapFACS\bin\Debug\HapFACS.exe
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS\HapFACS\bin\Debug\HapFACS.pdb
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS\HapFACS\bin\Debug\Interop.ACTIVEHAPTEKXLib.dll
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS\HapFACS\bin\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS\HapFACS\obj\x86\Debug\HapFACS.csprojResolveAssemblyReference.cache
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS\HapFACS\obj\x86\Debug\HapFACS.AboutBox.resources
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS\HapFACS\obj\x86\Debug\HapFACS.HapFACS_UserInterface.resources
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS\HapFACS\obj\x86\Debug\HapFACS.Properties.Resources.resources
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS\HapFACS\obj\x86\Debug\HapFACS.csproj.GenerateResource.Cache
+C:\Users\Guido Ruiz\Dropbox\HapFACS_2.3\HapFACS\bin\Debug\HapFACS.XML
+C:\Users\Guido Ruiz\Dropbox\HapFACS_2.3\HapFACS\obj\x86\Debug\Interop.ACTIVEHAPTEKXLib.dll
+C:\Users\Guido Ruiz\Dropbox\HapFACS_2.3\HapFACS\obj\x86\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+C:\Users\Guido Ruiz\Dropbox\HapFACS_2.3\HapFACS\obj\x86\Debug\HapFACS.csproj.ResolveComReference.cache
+C:\Users\Guido Ruiz\Dropbox\HapFACS_2.3\HapFACS\obj\x86\Debug\HapFACS.exe
+C:\Users\Guido Ruiz\Dropbox\HapFACS_2.3\HapFACS\obj\x86\Debug\HapFACS.pdb
+C:\Users\Guido Ruiz\Desktop\HapFACS_2.3\HapFACS\bin\Debug\HapFACS.XML
+C:\Users\Guido Ruiz\Desktop\HapFACS_2.3\HapFACS\obj\x86\Debug\Interop.ACTIVEHAPTEKXLib.dll
+C:\Users\Guido Ruiz\Desktop\HapFACS_2.3\HapFACS\obj\x86\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+C:\Users\Guido Ruiz\Desktop\HapFACS_2.3\HapFACS\obj\x86\Debug\HapFACS.csproj.ResolveComReference.cache
+C:\Users\Guido Ruiz\Desktop\HapFACS_2.3\HapFACS\obj\x86\Debug\HapFACS.exe
+C:\Users\Guido Ruiz\Desktop\HapFACS_2.3\HapFACS\obj\x86\Debug\HapFACS.pdb
+C:\Research\Google Drive 8\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V2\HapFACS\bin\Debug\HapFACS.XML
+C:\Research\Google Drive 8\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V2\HapFACS\obj\x86\Debug\Interop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 8\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V2\HapFACS\obj\x86\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 8\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V2\HapFACS\obj\x86\Debug\HapFACS.csproj.ResolveComReference.cache
+C:\Research\Google Drive 8\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V2\HapFACS\obj\x86\Debug\HapFACS.exe
+C:\Research\Google Drive 8\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V2\HapFACS\obj\x86\Debug\HapFACS.pdb
+C:\Research\Google Drive 8\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V2\HapFACS\bin\Debug\HapFACS.exe
+C:\Research\Google Drive 8\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V2\HapFACS\bin\Debug\HapFACS.pdb
+C:\Research\Google Drive 8\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V2\HapFACS\bin\Debug\Interop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 8\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V2\HapFACS\bin\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 8\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V2\HapFACS\obj\x86\Debug\HapFACS.csprojResolveAssemblyReference.cache
+C:\Research\Google Drive 8\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V2\HapFACS\obj\x86\Debug\HapFACS.AboutBox.resources
+C:\Research\Google Drive 8\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V2\HapFACS\obj\x86\Debug\HapFACS.HapFACS_UserInterface.resources
+C:\Research\Google Drive 8\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V2\HapFACS\obj\x86\Debug\HapFACS.Properties.Resources.resources
+C:\Research\Google Drive 8\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V2\HapFACS\obj\x86\Debug\HapFACS.csproj.GenerateResource.Cache
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS_V2\HapFACS_V2\HapFACS\bin\Debug\HapFACS.XML
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS_V2\HapFACS_V2\HapFACS\obj\x86\Debug\Interop.ACTIVEHAPTEKXLib.dll
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS_V2\HapFACS_V2\HapFACS\obj\x86\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS_V2\HapFACS_V2\HapFACS\obj\x86\Debug\HapFACS.csproj.ResolveComReference.cache
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS_V2\HapFACS_V2\HapFACS\obj\x86\Debug\HapFACS.exe
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS_V2\HapFACS_V2\HapFACS\obj\x86\Debug\HapFACS.pdb
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS_V2\HapFACS_V2\HapFACS\bin\Debug\HapFACS.exe
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS_V2\HapFACS_V2\HapFACS\bin\Debug\HapFACS.pdb
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS_V2\HapFACS_V2\HapFACS\bin\Debug\Interop.ACTIVEHAPTEKXLib.dll
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS_V2\HapFACS_V2\HapFACS\bin\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS_V2\HapFACS_V2\HapFACS\obj\x86\Debug\HapFACS.csprojResolveAssemblyReference.cache
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS_V2\HapFACS_V2\HapFACS\obj\x86\Debug\HapFACS.AboutBox.resources
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS_V2\HapFACS_V2\HapFACS\obj\x86\Debug\HapFACS.HapFACS_UserInterface.resources
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS_V2\HapFACS_V2\HapFACS\obj\x86\Debug\HapFACS.Properties.Resources.resources
+\\bear-ad.cs.fiu.edu\homes\Desktop\HapFACS_V2\HapFACS_V2\HapFACS\obj\x86\Debug\HapFACS.csproj.GenerateResource.Cache
+C:\Research\Google Drive 9\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V3\HapFACS\bin\Debug\HapFACS.XML
+C:\Research\Google Drive 9\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V3\HapFACS\obj\x86\Debug\Interop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 9\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V3\HapFACS\obj\x86\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 9\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V3\HapFACS\obj\x86\Debug\HapFACS.csproj.ResolveComReference.cache
+C:\Research\Google Drive 9\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V3\HapFACS\obj\x86\Debug\HapFACS.exe
+C:\Research\Google Drive 9\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V3\HapFACS\obj\x86\Debug\HapFACS.pdb
+C:\Research\Google Drive 9\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V3\HapFACS\bin\Debug\HapFACS.exe
+C:\Research\Google Drive 9\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V3\HapFACS\bin\Debug\HapFACS.pdb
+C:\Research\Google Drive 9\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V3\HapFACS\bin\Debug\Interop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 9\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V3\HapFACS\bin\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 9\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V3\HapFACS\obj\x86\Debug\HapFACS.csprojResolveAssemblyReference.cache
+C:\Research\Google Drive 9\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V3\HapFACS\obj\x86\Debug\HapFACS.AboutBox.resources
+C:\Research\Google Drive 9\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V3\HapFACS\obj\x86\Debug\HapFACS.HapFACS_UserInterface.resources
+C:\Research\Google Drive 9\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V3\HapFACS\obj\x86\Debug\HapFACS.Properties.Resources.resources
+C:\Research\Google Drive 9\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V3\HapFACS\obj\x86\Debug\HapFACS.csproj.GenerateResource.Cache
+C:\Research\Google Drive 9\ASCL\Projects\HapFACS-ExtendedVersion\HapFACS_V3\HapFACS\obj\x86\Debug\HapFACS.LicenseMenu.resources
+C:\Research\Google Drive 9\HapFACS\Code\V3.0\HapFACS\bin\Debug\HapFACS.XML
+C:\Research\Google Drive 9\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\Interop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 9\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 9\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.csproj.ResolveComReference.cache
+C:\Research\Google Drive 9\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.exe
+C:\Research\Google Drive 9\HapFACS\Code\V3.0\HapFACS\bin\Debug\HapFACS.exe
+C:\Research\Google Drive 9\HapFACS\Code\V3.0\HapFACS\bin\Debug\HapFACS.pdb
+C:\Research\Google Drive 9\HapFACS\Code\V3.0\HapFACS\bin\Debug\Interop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 9\HapFACS\Code\V3.0\HapFACS\bin\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 9\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.csprojResolveAssemblyReference.cache
+C:\Research\Google Drive 9\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.AboutBox.resources
+C:\Research\Google Drive 9\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.LicenseMenu.resources
+C:\Research\Google Drive 9\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.HapFACS_UserInterface.resources
+C:\Research\Google Drive 9\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.Properties.Resources.resources
+C:\Research\Google Drive 9\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.csproj.GenerateResource.Cache
+C:\Research\Google Drive 9\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.pdb
+C:\Research\Google Drive 10\HapFACS\Code\V3.0\HapFACS\bin\Debug\HapFACS.XML
+C:\Research\Google Drive 10\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\Interop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 10\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 10\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.csproj.ResolveComReference.cache
+C:\Research\Google Drive 10\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.exe
+C:\Research\Google Drive 10\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.pdb
+C:\Research\Google Drive 10\HapFACS\Code\V3.0\HapFACS\bin\Debug\HapFACS.exe
+C:\Research\Google Drive 10\HapFACS\Code\V3.0\HapFACS\bin\Debug\HapFACS.pdb
+C:\Research\Google Drive 10\HapFACS\Code\V3.0\HapFACS\bin\Debug\Interop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 10\HapFACS\Code\V3.0\HapFACS\bin\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 10\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.csprojResolveAssemblyReference.cache
+C:\Research\Google Drive 10\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.AboutBox.resources
+C:\Research\Google Drive 10\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.LicenseMenu.resources
+C:\Research\Google Drive 10\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.HapFACS_UserInterface.resources
+C:\Research\Google Drive 10\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.Properties.Resources.resources
+C:\Research\Google Drive 10\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.csproj.GenerateResource.Cache
+C:\Research\Google Drive 11\HapFACS\Code\V3.0\HapFACS\bin\Debug\HapFACS.XML
+C:\Research\Google Drive 11\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\Interop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 11\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 11\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.csproj.ResolveComReference.cache
+C:\Research\Google Drive 11\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.exe
+C:\Research\Google Drive 11\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.pdb
+C:\Research\Google Drive 11\HapFACS\Code\V3.0\HapFACS\bin\Debug\HapFACS.exe
+C:\Research\Google Drive 11\HapFACS\Code\V3.0\HapFACS\bin\Debug\HapFACS.pdb
+C:\Research\Google Drive 11\HapFACS\Code\V3.0\HapFACS\bin\Debug\Interop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 11\HapFACS\Code\V3.0\HapFACS\bin\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 11\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.csprojResolveAssemblyReference.cache
+C:\Research\Google Drive 11\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.AboutBox.resources
+C:\Research\Google Drive 11\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.LicenseMenu.resources
+C:\Research\Google Drive 11\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.HapFACS_UserInterface.resources
+C:\Research\Google Drive 11\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.Properties.Resources.resources
+C:\Research\Google Drive 11\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.csproj.GenerateResource.Cache
+C:\Research\Google Drive 12\HapFACS\Code\V3.0\HapFACS\bin\Debug\HapFACS.XML
+C:\Research\Google Drive 12\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\Interop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 12\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 12\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.csproj.ResolveComReference.cache
+C:\Research\Google Drive 12\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.exe
+C:\Research\Google Drive 12\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.pdb
+C:\Research\Google Drive 12\HapFACS\Code\V3.0\HapFACS\bin\Debug\HapFACS.exe
+C:\Research\Google Drive 12\HapFACS\Code\V3.0\HapFACS\bin\Debug\HapFACS.pdb
+C:\Research\Google Drive 12\HapFACS\Code\V3.0\HapFACS\bin\Debug\Interop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 12\HapFACS\Code\V3.0\HapFACS\bin\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 12\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.csprojResolveAssemblyReference.cache
+C:\Research\Google Drive 12\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.AboutBox.resources
+C:\Research\Google Drive 12\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.LicenseMenu.resources
+C:\Research\Google Drive 12\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.HapFACS_UserInterface.resources
+C:\Research\Google Drive 12\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.Properties.Resources.resources
+C:\Research\Google Drive 12\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.csproj.GenerateResource.Cache
+C:\Research\Google Drive 16\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\Interop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 16\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 16\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.csproj.ResolveComReference.cache
+C:\Research\Google Drive 16\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.exe
+C:\Research\Google Drive 16\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.pdb
+C:\Research\Google Drive 16\HapFACS\Code\V3.0\HapFACS\bin\Debug\HapFACS.exe
+C:\Research\Google Drive 16\HapFACS\Code\V3.0\HapFACS\bin\Debug\HapFACS.pdb
+C:\Research\Google Drive 16\HapFACS\Code\V3.0\HapFACS\bin\Debug\HapFACS.XML
+C:\Research\Google Drive 16\HapFACS\Code\V3.0\HapFACS\bin\Debug\Interop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 16\HapFACS\Code\V3.0\HapFACS\bin\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 16\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.csprojResolveAssemblyReference.cache
+C:\Research\Google Drive 16\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.AboutBox.resources
+C:\Research\Google Drive 16\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.LicenseMenu.resources
+C:\Research\Google Drive 16\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.HapFACS_UserInterface.resources
+C:\Research\Google Drive 16\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.Properties.Resources.resources
+C:\Research\Google Drive 16\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.csproj.GenerateResource.Cache
+C:\Research\Google Drive 25\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\Interop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 25\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 25\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.csproj.ResolveComReference.cache
+C:\Research\Google Drive 25\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.exe
+C:\Research\Google Drive 25\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.pdb
+C:\Research\Google Drive 26\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\Interop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 26\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+C:\Research\Google Drive 26\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.csproj.ResolveComReference.cache
+C:\Research\Google Drive 26\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.exe
+C:\Research\Google Drive 26\HapFACS\Code\V3.0\HapFACS\obj\x86\Debug\HapFACS.pdb

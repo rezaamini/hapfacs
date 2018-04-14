@@ -1,0 +1,600 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="aa_MAX_AU17 field" Url="html/89ef430c-0e83-c9ee-cd28-0eb07cfee6c3.htm" />
+  <HelpKINode Title="aa_MAX_AU26 field" Url="html/20adc88f-15a7-dc05-ee3d-9439ffdf0cfd.htm" />
+  <HelpKINode Title="aa_MAX_AU27 field" Url="html/2187d98e-a232-6e7d-a2dd-4d18e6baea7a.htm" />
+  <HelpKINode Title="AboutBox class">
+    <HelpKINode Title="AboutBox Class" Url="html/e37d49fb-38c9-af69-6032-bb59366050e2.htm" />
+    <HelpKINode Title="about AboutBox class" Url="html/e37d49fb-38c9-af69-6032-bb59366050e2.htm" />
+    <HelpKINode Title="constructor" Url="html/6e9254af-fed2-826b-4b6c-9ecef8ddd814.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AboutBox.AboutBox constructor" Url="html/6e9254af-fed2-826b-4b6c-9ecef8ddd814.htm" />
+  <HelpKINode Title="addToAnimation method" Url="html/56bdd4fe-ded5-e94a-fb65-9b7c6b4b470b.htm" />
+  <HelpKINode Title="AIntensity field" Url="html/69bf27df-30b2-eee3-7989-bd842a1e3443.htm" />
+  <HelpKINode Title="Anger method" Url="html/b2f2fbd8-af92-2700-db4e-cceb70c4926c.htm" />
+  <HelpKINode Title="Animation class">
+    <HelpKINode Title="Animation Class" Url="html/b2b8ec9e-635d-4643-e09b-dbd7888ba8a8.htm" />
+    <HelpKINode Title="about Animation class" Url="html/b2b8ec9e-635d-4643-e09b-dbd7888ba8a8.htm" />
+    <HelpKINode Title="constructor" Url="html/f6c13816-8133-917c-06bb-5fb6947b85c0.htm" />
+    <HelpKINode Title="methods" Url="html/9745aa43-5c84-1806-4b41-b54eb36685c8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Animation.addToAnimation method" Url="html/56bdd4fe-ded5-e94a-fb65-9b7c6b4b470b.htm" />
+  <HelpKINode Title="Animation.Animation constructor" Url="html/f6c13816-8133-917c-06bb-5fb6947b85c0.htm" />
+  <HelpKINode Title="Animation.animationLengthExcludingStops method" Url="html/3f377d65-82f4-079b-c745-8220a59d8782.htm" />
+  <HelpKINode Title="Animation.animationLengthIncludingStops method" Url="html/1366271a-2fce-e5bb-e994-b4cb72d6a7ec.htm" />
+  <HelpKINode Title="Animation.animationStartTime method" Url="html/26f7571c-c650-10b4-f5c2-d41622bb08a7.htm" />
+  <HelpKINode Title="Animation.animationStopTime method" Url="html/c7a909cf-7f1d-336a-d29a-65778e69e1f9.htm" />
+  <HelpKINode Title="Animation.getAnimation method" Url="html/bdb07237-b951-d3f3-5ee9-088bf8038d0c.htm" />
+  <HelpKINode Title="animationLengthExcludingStops method" Url="html/3f377d65-82f4-079b-c745-8220a59d8782.htm" />
+  <HelpKINode Title="animationLengthIncludingStops method" Url="html/1366271a-2fce-e5bb-e994-b4cb72d6a7ec.htm" />
+  <HelpKINode Title="AnimationSector class">
+    <HelpKINode Title="AnimationSector Class" Url="html/ce9682f6-b677-5125-12b1-829877600dbe.htm" />
+    <HelpKINode Title="about AnimationSector class" Url="html/ce9682f6-b677-5125-12b1-829877600dbe.htm" />
+    <HelpKINode Title="constructor" Url="html/96c08707-dd79-f1c2-ff8e-fd9ccd3587ed.htm" />
+    <HelpKINode Title="methods" Url="html/717d3a2c-ed70-5cb5-21e1-8fb893a3986d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AnimationSector.AnimationSector constructor" Url="html/96c08707-dd79-f1c2-ff8e-fd9ccd3587ed.htm" />
+  <HelpKINode Title="AnimationSector.getAU method" Url="html/07bc3988-f36d-ce8c-99df-9cbaf4ca8f19.htm" />
+  <HelpKINode Title="AnimationSector.getEndIntensity method" Url="html/8f734a7c-40b8-89a6-84c5-115a7f112f62.htm" />
+  <HelpKINode Title="AnimationSector.getEndTime method" Url="html/4099b793-ea86-4445-1294-92ace7a072cd.htm" />
+  <HelpKINode Title="AnimationSector.getSide method" Url="html/3fb34e91-cc7c-8d4c-44e2-81feb7e877a9.htm" />
+  <HelpKINode Title="AnimationSector.getStartIntensity method" Url="html/453a768c-3822-4474-f47a-afacbe1990db.htm" />
+  <HelpKINode Title="AnimationSector.getStartTime method" Url="html/ad58f691-f259-ee77-6aff-e390d75ba406.htm" />
+  <HelpKINode Title="AnimationSector.getTextToSpeak method" Url="html/81c94ee4-e5bb-5e02-2e47-3034467e665e.htm" />
+  <HelpKINode Title="AnimationSector.sectorLength method" Url="html/80ce2d16-e0f3-1447-e11c-f9ea37a1f03d.htm" />
+  <HelpKINode Title="AnimationSector.setAU method" Url="html/e0e0526b-4b87-0576-c567-bbf91f42999a.htm" />
+  <HelpKINode Title="AnimationSector.setEndIntensity method" Url="html/3d0928c1-520b-9f27-3391-8ef1bbc01c8c.htm" />
+  <HelpKINode Title="AnimationSector.setEndTime method" Url="html/fc3b509e-c246-864b-7988-8a2da315c1a5.htm" />
+  <HelpKINode Title="AnimationSector.setSide method" Url="html/399f3e20-4038-fc9e-3e9c-81277bf0ec0a.htm" />
+  <HelpKINode Title="AnimationSector.setStartIntensity method" Url="html/2f275c88-ef90-acc7-8c9e-7e36ff393fd8.htm" />
+  <HelpKINode Title="AnimationSector.setStartTime method" Url="html/ae1e1e06-91e7-b30c-b3cb-57eb21ce3526.htm" />
+  <HelpKINode Title="AnimationSector.setTextToSpeak method" Url="html/2453d06f-f21a-16e1-4294-c2162a25a674.htm" />
+  <HelpKINode Title="animationStartTime method" Url="html/26f7571c-c650-10b4-f5c2-d41622bb08a7.htm" />
+  <HelpKINode Title="animationStopTime method" Url="html/c7a909cf-7f1d-336a-d29a-65778e69e1f9.htm" />
+  <HelpKINode Title="AU1 method" Url="html/475fb639-73ab-a60c-ae46-717501868086.htm" />
+  <HelpKINode Title="AU10 method" Url="html/dafa6549-5b5c-4784-2996-6d3163f95730.htm" />
+  <HelpKINode Title="AU10Video method" Url="html/fc36ddbd-6a99-cb23-e4ae-e6fe6455effb.htm" />
+  <HelpKINode Title="AU11 method" Url="html/48ccdfa9-dcc7-2255-7175-26ce3fda454e.htm" />
+  <HelpKINode Title="AU11Video method" Url="html/fc84733e-eae7-a810-a865-f0f5630f2059.htm" />
+  <HelpKINode Title="AU12 method" Url="html/8d5b33f2-3e58-15c9-97e0-61753df5e813.htm" />
+  <HelpKINode Title="AU12Video method" Url="html/2d66473a-cd33-ebd4-a6d8-ee7a90f3509a.htm" />
+  <HelpKINode Title="AU13 method" Url="html/d2792fbf-d381-8225-5a7e-d2db52bd4d69.htm" />
+  <HelpKINode Title="AU13Video method" Url="html/c799d099-957d-3403-4057-2ba554ccd4b5.htm" />
+  <HelpKINode Title="AU14 method" Url="html/22967d9c-dc85-a99a-94ca-9ec1fce78a8d.htm" />
+  <HelpKINode Title="AU14Video method" Url="html/799734a9-553e-7769-9027-e3c0fdded27e.htm" />
+  <HelpKINode Title="AU15 method" Url="html/53e84544-b744-0c35-0696-0ee52429edf8.htm" />
+  <HelpKINode Title="AU15Video method" Url="html/bfb23674-d2db-a91c-223c-4da8b6fc9be0.htm" />
+  <HelpKINode Title="AU16 method" Url="html/52c6b06b-5514-851d-91bd-0f8d2147b7dc.htm" />
+  <HelpKINode Title="AU16Video method" Url="html/90600ade-39b2-fc04-a092-35afaa9bc2e2.htm" />
+  <HelpKINode Title="AU17 method" Url="html/bbd30fe1-994b-618d-9786-63df0beb213c.htm" />
+  <HelpKINode Title="AU17Video method" Url="html/f9927124-a579-ab30-55ba-ef53b2c650fd.htm" />
+  <HelpKINode Title="AU18 method" Url="html/39fd767e-50d2-4e9f-fdca-097c1e4ec855.htm" />
+  <HelpKINode Title="AU18Video method" Url="html/f6b9070d-5802-d0f1-5b55-776b4693a48c.htm" />
+  <HelpKINode Title="AU1Video method" Url="html/ac65a93f-b0b8-18fc-8b49-97e28d803665.htm" />
+  <HelpKINode Title="AU2 method" Url="html/830bd5ed-6dcd-c4e3-93a6-409c4a2e3ddd.htm" />
+  <HelpKINode Title="AU20 method" Url="html/75c7d33b-ac7a-c1de-2389-4be081e2243f.htm" />
+  <HelpKINode Title="AU20Video method" Url="html/d506724a-1ed9-9a69-794d-96fc38acaedd.htm" />
+  <HelpKINode Title="AU22 method" Url="html/ebe9e599-d9c5-09b5-e714-d8671a0bba90.htm" />
+  <HelpKINode Title="AU22Video method" Url="html/bc46d1ae-e11a-677d-7c01-9f1679645ab7.htm" />
+  <HelpKINode Title="AU23 method" Url="html/03f05c1d-2ca7-1c95-582b-1518886ffb3d.htm" />
+  <HelpKINode Title="AU23Video method" Url="html/4fe4dcf1-a234-4f30-8f7d-19b791ed10bf.htm" />
+  <HelpKINode Title="AU24 method" Url="html/8d39f2de-9bda-5ea2-9c11-37da67806a73.htm" />
+  <HelpKINode Title="AU24Video method" Url="html/17e9ab50-1b66-84eb-0dd6-8cda165802c7.htm" />
+  <HelpKINode Title="AU25 method" Url="html/ffbc7740-9988-ede3-d6e6-98bc7b0dc2e2.htm" />
+  <HelpKINode Title="AU25Video method" Url="html/6fe57517-cfcb-364d-273e-cf5a1385317b.htm" />
+  <HelpKINode Title="AU26 method" Url="html/d20dbdb6-7796-f131-2996-2cd1f12a9e70.htm" />
+  <HelpKINode Title="AU26Video method" Url="html/eec16474-f850-8b79-6808-abb98320ea50.htm" />
+  <HelpKINode Title="AU27 method" Url="html/a681e173-3d37-d0f5-a37b-4fdbde3a2019.htm" />
+  <HelpKINode Title="AU27Video method" Url="html/39b5ac04-5160-efe1-047b-0de19cb92762.htm" />
+  <HelpKINode Title="AU28 method" Url="html/ddf27469-89b6-ca7a-45a8-bd6f441a29c9.htm" />
+  <HelpKINode Title="AU28Video method" Url="html/c561df12-3b6d-d9bd-2a21-20e1394a3dae.htm" />
+  <HelpKINode Title="AU2Video method" Url="html/848de089-7be0-d04a-ef07-26744571bcf1.htm" />
+  <HelpKINode Title="AU38 method" Url="html/288f3826-0eaa-2df9-f59f-4c8edd694d95.htm" />
+  <HelpKINode Title="AU38Video method" Url="html/c67e773f-76a5-6bec-92c4-6a398c6e208d.htm" />
+  <HelpKINode Title="AU39 method" Url="html/d373f7a6-b612-b41d-22ed-ffc01497a69a.htm" />
+  <HelpKINode Title="AU39Video method" Url="html/79704a43-ef28-bf5a-7ec1-ead9b3af00f6.htm" />
+  <HelpKINode Title="AU4 method" Url="html/fd6a3a09-a4e1-9e88-808a-d024ff9194ca.htm" />
+  <HelpKINode Title="AU41 method" Url="html/4dbb2ae0-1aea-4f55-be6f-709626cc3b4b.htm" />
+  <HelpKINode Title="AU41Video method" Url="html/6c14975b-6e15-4cc5-e7d6-f4b73efbd873.htm" />
+  <HelpKINode Title="AU42 method" Url="html/74aa9b7c-7b8b-762d-1166-5b1404d5e938.htm" />
+  <HelpKINode Title="AU42Video method" Url="html/f3b68181-3a48-0c5b-4ae2-6ca946a66e64.htm" />
+  <HelpKINode Title="AU43 method" Url="html/4aca889f-2198-f538-ff0d-70aa7106bbeb.htm" />
+  <HelpKINode Title="AU43Video method" Url="html/6dcad5dc-e7a3-eeaa-ef6d-ad124ac1fe2f.htm" />
+  <HelpKINode Title="AU44 method" Url="html/5b9379f6-36ef-016f-e7e0-9bffee967ab2.htm" />
+  <HelpKINode Title="AU44Video method" Url="html/8099155b-786c-b5f7-fe26-aa35a9133197.htm" />
+  <HelpKINode Title="AU45 method" Url="html/dc299908-3b74-97cd-d4e4-963085512760.htm" />
+  <HelpKINode Title="AU45Video method" Url="html/05fc5983-664e-f87d-e014-0ba21bc563ea.htm" />
+  <HelpKINode Title="AU46 method" Url="html/81b8b81c-1eb6-eccd-8404-012e872c5b88.htm" />
+  <HelpKINode Title="AU46Video method" Url="html/e777ccd5-fe58-cbde-884f-c56c989e5472.htm" />
+  <HelpKINode Title="AU4Video method" Url="html/16f7d796-f9ea-899e-71b7-0ed0161dc905.htm" />
+  <HelpKINode Title="AU5 method" Url="html/bc4e5d7e-0248-75d8-040a-8835930b6611.htm" />
+  <HelpKINode Title="AU51 method" Url="html/a96f0aa5-80a0-a61a-70ed-d47664475d76.htm" />
+  <HelpKINode Title="AU51Video method" Url="html/e5f136f3-9b1a-de20-922e-082e3944024b.htm" />
+  <HelpKINode Title="AU52 method" Url="html/8cf450f9-f0f5-535b-8034-a3a7fdb5f4f1.htm" />
+  <HelpKINode Title="AU52Video method" Url="html/b2b74200-1e7f-4745-2042-7f7b31519a51.htm" />
+  <HelpKINode Title="AU53 method" Url="html/2a09ed8c-5967-478f-42f6-139a3a49c647.htm" />
+  <HelpKINode Title="AU53Video method" Url="html/045acd69-bf0e-10e4-fb31-a316217c4780.htm" />
+  <HelpKINode Title="AU54 method" Url="html/6fa0386e-4552-b0ba-5731-b342c0bfcfe7.htm" />
+  <HelpKINode Title="AU54Video method" Url="html/c836fe23-3033-c67c-3e24-5c9975c1d0d4.htm" />
+  <HelpKINode Title="AU55 method" Url="html/c20c1877-c17f-bc39-9dc6-4be1454502cc.htm" />
+  <HelpKINode Title="AU55Video method" Url="html/89598201-d152-a94a-ea53-98cb1d748e1e.htm" />
+  <HelpKINode Title="AU56 method" Url="html/18adda01-df4d-bbd8-5a55-82ac2e398cd6.htm" />
+  <HelpKINode Title="AU56Video method" Url="html/89208abb-ef98-5d8d-919d-033d106e4e14.htm" />
+  <HelpKINode Title="AU57 method" Url="html/5477b0e0-c1f3-cacc-d8e2-b7b89c16d051.htm" />
+  <HelpKINode Title="AU57Video method" Url="html/9f071be0-2332-57ee-c125-3bd7a1224c1c.htm" />
+  <HelpKINode Title="AU58 method" Url="html/e198d040-f985-aac8-008b-799bfc7c41f7.htm" />
+  <HelpKINode Title="AU58Video method" Url="html/88ef23ef-b00e-9696-7e07-d9e2824508e0.htm" />
+  <HelpKINode Title="AU5Video method" Url="html/70324d3f-910a-e838-c036-c600c47582d3.htm" />
+  <HelpKINode Title="AU6 method" Url="html/e60c10dc-8047-45cb-9787-fe0a5f1c65ff.htm" />
+  <HelpKINode Title="AU61 method" Url="html/a0a7380c-10d8-5ed8-8440-8a07356778eb.htm" />
+  <HelpKINode Title="AU61Video method" Url="html/20f7cba7-83c1-eaec-2904-d1a66aa9b4dd.htm" />
+  <HelpKINode Title="AU62 method" Url="html/b9326124-081b-e0c6-78c9-3dfdd0d2646a.htm" />
+  <HelpKINode Title="AU62Video method" Url="html/014dd62a-9c53-e41f-7a27-640a401e3484.htm" />
+  <HelpKINode Title="AU63 method" Url="html/21d1f18c-8c8b-b83d-5350-c95ba4a27adf.htm" />
+  <HelpKINode Title="AU63Video method" Url="html/7354f684-818b-2179-be39-73168d9f83bd.htm" />
+  <HelpKINode Title="AU64 method" Url="html/69d7e7c2-178d-6de7-738e-dc8479739cb0.htm" />
+  <HelpKINode Title="AU64Video method" Url="html/f97484c1-b552-3265-c047-75b830b723d9.htm" />
+  <HelpKINode Title="AU65 method" Url="html/cc1f8cc8-b327-d99c-f33c-beba4a3320dc.htm" />
+  <HelpKINode Title="AU65Video method" Url="html/ef0e686e-8f59-00d7-6c1f-da52ce191cd7.htm" />
+  <HelpKINode Title="AU66 method" Url="html/e0298161-6d8e-77a1-4039-83d74692d239.htm" />
+  <HelpKINode Title="AU66Video method" Url="html/0ebd43ad-f26a-f9c9-a527-d03d3547fbc0.htm" />
+  <HelpKINode Title="AU6Video method" Url="html/a0d32af7-8bb0-c3b2-01c0-821e41a34697.htm" />
+  <HelpKINode Title="AU7 method" Url="html/5e776c01-56aa-7448-7fad-b90f86c6a874.htm" />
+  <HelpKINode Title="AU7Video method" Url="html/f59822df-463c-824b-d11e-c8cc42ffa901.htm" />
+  <HelpKINode Title="AU8 method" Url="html/3d2d1532-3717-da7a-0b00-44e0f610d173.htm" />
+  <HelpKINode Title="AU8Video method" Url="html/5fdb4659-34d3-9560-c526-e9d45f190367.htm" />
+  <HelpKINode Title="AU9 method" Url="html/67cbe5a7-013e-9100-48ca-964274127003.htm" />
+  <HelpKINode Title="AU9Video method" Url="html/87f8d3ba-f6f7-9e78-e924-ec868951ed11.htm" />
+  <HelpKINode Title="AUM59 method" Url="html/816fe788-560a-103f-7d94-71b8af8f733f.htm" />
+  <HelpKINode Title="AUM59Video method" Url="html/23eee3f5-1b47-9bbf-fb56-bae0cf122141.htm" />
+  <HelpKINode Title="AUM60 method" Url="html/313bf73b-21c7-a4cf-68eb-4aa53ed6d451.htm" />
+  <HelpKINode Title="AUM60Video method" Url="html/f197b78e-b93e-66af-6496-6a117e8a2df2.htm" />
+  <HelpKINode Title="BIntensity field" Url="html/63890cb9-0526-612f-9218-004100c1ad59.htm" />
+  <HelpKINode Title="blink_MAX_AU43 field" Url="html/eb5c5495-7ac8-8174-45a0-ef1c521aca78.htm" />
+  <HelpKINode Title="b_MAX_AU20 field" Url="html/4edc5734-2c90-12b5-7f0f-7a9960bfeecd.htm" />
+  <HelpKINode Title="b_MAX_AU23 field" Url="html/4542448b-8f1d-ac96-1830-ee173cab0b8c.htm" />
+  <HelpKINode Title="b_MAX_AU24 field" Url="html/dd25d47d-c960-6789-8c82-e758a57eff66.htm" />
+  <HelpKINode Title="b_MAX_AU28 field" Url="html/ba67a755-708b-41ec-4bc7-748971ec8fd6.htm" />
+  <HelpKINode Title="b_MAX_AU8 field" Url="html/7f3dce4b-69e4-0353-9c74-6e7a82962143.htm" />
+  <HelpKINode Title="ch_MAX_AU22 field" Url="html/0d31fb33-7a95-3498-d7f5-b35570810282.htm" />
+  <HelpKINode Title="ch_MAX_AU25 field" Url="html/8ce09e2d-1669-e2b6-d565-0405c6eb5c37.htm" />
+  <HelpKINode Title="CIntensity field" Url="html/0db55258-a14c-3bdf-e7f7-5cb30f9cbf6c.htm" />
+  <HelpKINode Title="Constants class">
+    <HelpKINode Title="Constants Class" Url="html/ed468d4a-b432-f76c-e7d8-afe60f34e0ab.htm" />
+    <HelpKINode Title="about Constants class" Url="html/ed468d4a-b432-f76c-e7d8-afe60f34e0ab.htm" />
+    <HelpKINode Title="fields" Url="html/9710d5e0-ca23-e059-41cd-7b0ac7dea57a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Constants.aa_MAX_AU17 field" Url="html/89ef430c-0e83-c9ee-cd28-0eb07cfee6c3.htm" />
+  <HelpKINode Title="Constants.aa_MAX_AU26 field" Url="html/20adc88f-15a7-dc05-ee3d-9439ffdf0cfd.htm" />
+  <HelpKINode Title="Constants.aa_MAX_AU27 field" Url="html/2187d98e-a232-6e7d-a2dd-4d18e6baea7a.htm" />
+  <HelpKINode Title="Constants.AIntensity field" Url="html/69bf27df-30b2-eee3-7989-bd842a1e3443.htm" />
+  <HelpKINode Title="Constants.BIntensity field" Url="html/63890cb9-0526-612f-9218-004100c1ad59.htm" />
+  <HelpKINode Title="Constants.blink_MAX_AU43 field" Url="html/eb5c5495-7ac8-8174-45a0-ef1c521aca78.htm" />
+  <HelpKINode Title="Constants.b_MAX_AU20 field" Url="html/4edc5734-2c90-12b5-7f0f-7a9960bfeecd.htm" />
+  <HelpKINode Title="Constants.b_MAX_AU23 field" Url="html/4542448b-8f1d-ac96-1830-ee173cab0b8c.htm" />
+  <HelpKINode Title="Constants.b_MAX_AU24 field" Url="html/dd25d47d-c960-6789-8c82-e758a57eff66.htm" />
+  <HelpKINode Title="Constants.b_MAX_AU28 field" Url="html/ba67a755-708b-41ec-4bc7-748971ec8fd6.htm" />
+  <HelpKINode Title="Constants.b_MAX_AU8 field" Url="html/7f3dce4b-69e4-0353-9c74-6e7a82962143.htm" />
+  <HelpKINode Title="Constants.ch_MAX_AU22 field" Url="html/0d31fb33-7a95-3498-d7f5-b35570810282.htm" />
+  <HelpKINode Title="Constants.ch_MAX_AU25 field" Url="html/8ce09e2d-1669-e2b6-d565-0405c6eb5c37.htm" />
+  <HelpKINode Title="Constants.CIntensity field" Url="html/0db55258-a14c-3bdf-e7f7-5cb30f9cbf6c.htm" />
+  <HelpKINode Title="Constants.DIntensity field" Url="html/77d130d3-7eac-790a-fce7-fea97b7df7c3.htm" />
+  <HelpKINode Title="Constants.distrust_MAX_AU7 field" Url="html/ae2ee50e-8665-fc2a-1600-c02009c97232.htm" />
+  <HelpKINode Title="Constants.d_MAX_AU10 field" Url="html/024ec7ee-9676-ef4d-60e2-46b26cc03247.htm" />
+  <HelpKINode Title="Constants.d_MAX_AU11 field" Url="html/e8417a67-8465-3c77-b4da-b11c95bfc8c2.htm" />
+  <HelpKINode Title="Constants.d_MAX_AU28 field" Url="html/5385920c-78c1-237e-11eb-545a387e785e.htm" />
+  <HelpKINode Title="Constants.eyes_sad_MAX_AU4 field" Url="html/958a5f30-34b8-0371-5736-c1b85586414a.htm" />
+  <HelpKINode Title="Constants.eyes_sad_MAX_AU44 field" Url="html/06afe703-e25e-dc0f-c957-c499e7b1d085.htm" />
+  <HelpKINode Title="Constants.ey_MAX_AU27 field" Url="html/b3a01f23-8532-44ff-506a-b7f2c5377579.htm" />
+  <HelpKINode Title="Constants.f_MAX_AU28 field" Url="html/ff2bb532-36db-c550-e579-5309bb7fbab0.htm" />
+  <HelpKINode Title="Constants.HeadForward_MAX_AU53 field" Url="html/4487d884-dfff-ff20-6983-6b2a8df1ecf0.htm" />
+  <HelpKINode Title="Constants.HeadForward_MAX_AU54 field" Url="html/dda953aa-4dbc-f2d0-1d7f-a58c44a0ff72.htm" />
+  <HelpKINode Title="Constants.HeadForward_MAX_AU57 field" Url="html/e6db5225-9542-4964-8100-dd095b45d599.htm" />
+  <HelpKINode Title="Constants.HeadForward_MAX_AU58 field" Url="html/9d3094ca-7fdf-a3fd-eb01-c42de112e26c.htm" />
+  <HelpKINode Title="Constants.HeadSideBend_MAX_AU55 field" Url="html/057c519d-7d53-645c-3fbe-844297e6f3fb.htm" />
+  <HelpKINode Title="Constants.HeadSideBend_MAX_AU56 field" Url="html/970d2d41-a4a1-e99d-505e-b260bdcca9b0.htm" />
+  <HelpKINode Title="Constants.HeadTwist_MAX_AU51 field" Url="html/c9c04392-dd39-3a83-0c37-5999bb97577c.htm" />
+  <HelpKINode Title="Constants.HeadTwist_MAX_AU52 field" Url="html/36130ae9-b26f-4771-8ca0-762bcb1a4377.htm" />
+  <HelpKINode Title="Constants.iy_MAX_AU10 field" Url="html/1b8ce625-ac6e-6ac9-b0a0-5687a8582042.htm" />
+  <HelpKINode Title="Constants.kiss_MAX_AU18 field" Url="html/5b8d52a8-315f-1c52-17f3-dd1039d8a41d.htm" />
+  <HelpKINode Title="Constants.kiss_MAX_AU24 field" Url="html/e8a96cc7-eaf7-22d4-500b-5dd5d8fbfd54.htm" />
+  <HelpKINode Title="Constants.kiss_MAX_AU6 field" Url="html/ccf7aa66-d224-1700-6d7d-b21235023837.htm" />
+  <HelpKINode Title="Constants.LBrowUD_MAX_AU2 field" Url="html/83253a7c-6529-0898-c1f3-8fa0ba7add4b.htm" />
+  <HelpKINode Title="Constants.LBrowUD_MAX_AU4 field" Url="html/f8b63464-02be-9523-8c89-b58e2bf00a61.htm" />
+  <HelpKINode Title="Constants.LBrowUD_MAX_AU44 field" Url="html/d147aafa-fd96-bfbd-d5d4-c84d6935b988.htm" />
+  <HelpKINode Title="Constants.LEyeBallLR_MAX_AU61 field" Url="html/35717208-997d-18e7-1844-c02b1b319326.htm" />
+  <HelpKINode Title="Constants.LEyeBallLR_MAX_AU62 field" Url="html/b6d46b0f-a127-2b11-fd98-e10e47591061.htm" />
+  <HelpKINode Title="Constants.LEyeBallLR_MAX_AU65 field" Url="html/9242bb54-7161-d0b9-b64a-45e66b98e70d.htm" />
+  <HelpKINode Title="Constants.LEyeBallLR_MAX_AU66 field" Url="html/293b36ac-7749-8c77-9190-08616450a16c.htm" />
+  <HelpKINode Title="Constants.LEyeBallUD_MAX_AU63 field" Url="html/88139feb-3f24-7f20-b571-eeeda5f981d8.htm" />
+  <HelpKINode Title="Constants.LEyeBallUD_MAX_AU64 field" Url="html/a0854ac0-85f2-5c7e-0ceb-6e45207a55f3.htm" />
+  <HelpKINode Title="Constants.lipcornerL3ty_MAX_AU13 field" Url="html/32cc37e4-f77a-dd76-dbf0-52bade4530e5.htm" />
+  <HelpKINode Title="Constants.lipcornerL3ty_MAX_AU15 field" Url="html/b21821c1-603c-6442-5e53-9a309f8f2d26.htm" />
+  <HelpKINode Title="Constants.lipcornerL3ty_MAX_AU17 field" Url="html/9badc717-b90f-2637-e042-d9b00bcc8de3.htm" />
+  <HelpKINode Title="Constants.lipcornerL3ty_MAX_AU20 field" Url="html/a61f33f5-ede8-ead7-c0aa-6e76f7d3a8f8.htm" />
+  <HelpKINode Title="Constants.lipcornerL3ty_MAX_AU6 field" Url="html/2430de21-56df-af85-937c-dd393eb30a48.htm" />
+  <HelpKINode Title="Constants.lipcornerR3ty_MAX_AU13 field" Url="html/cc02c3a3-ef91-2b82-f290-ac916b544580.htm" />
+  <HelpKINode Title="Constants.lipcornerR3ty_MAX_AU15 field" Url="html/52b635d3-b579-3703-12fe-9b9ccb0710ca.htm" />
+  <HelpKINode Title="Constants.lipcornerR3ty_MAX_AU17 field" Url="html/e858417c-aff9-3fd7-5b84-46238c191ebd.htm" />
+  <HelpKINode Title="Constants.lipcornerR3ty_MAX_AU20 field" Url="html/9f17239e-6d64-4c2f-e3ba-7deea4649d86.htm" />
+  <HelpKINode Title="Constants.lipcornerR3ty_MAX_AU6 field" Url="html/56b2f87c-3fb1-dd98-954d-5b72268d4a0a.htm" />
+  <HelpKINode Title="Constants.MidBrowUD_MAX_AU1 field" Url="html/a32905c9-0701-4b01-38da-ebd452411343.htm" />
+  <HelpKINode Title="Constants.MidBrowUD_MAX_AU4 field" Url="html/796f3b70-6875-af7f-f972-b3738ec7a723.htm" />
+  <HelpKINode Title="Constants.MidBrowUD_MAX_AU42 field" Url="html/c4707b56-46c7-d48d-d70f-dd0bcfcdcf0f.htm" />
+  <HelpKINode Title="Constants.MidBrowUD_MAX_AU44 field" Url="html/3955f250-01a3-e49e-36f1-f1d909f19394.htm" />
+  <HelpKINode Title="Constants.MidBrowUD_MAX_AU9 field" Url="html/7bae85dc-6777-1f83-a671-1251c7385a3b.htm" />
+  <HelpKINode Title="Constants.mouth2ty_MAX_AU17 field" Url="html/d25787f4-34ab-20a5-ef57-1f10cec71e66.htm" />
+  <HelpKINode Title="Constants.mouth2ty_MAX_AU20 field" Url="html/44fe9635-55f5-fd1b-b665-e9bd94f880ed.htm" />
+  <HelpKINode Title="Constants.NeckForward_MAX_AU57 field" Url="html/96c1dd2e-4c35-daee-4299-f18bed8d69e7.htm" />
+  <HelpKINode Title="Constants.NeckForward_MAX_AU58 field" Url="html/c01f8559-03b0-4b37-a777-7ec97132b122.htm" />
+  <HelpKINode Title="Constants.nostrilL3tx_MAX_AU10 field" Url="html/af9950d1-ce96-b555-a6d0-44520c5dfe5c.htm" />
+  <HelpKINode Title="Constants.nostrilL3tx_MAX_AU11 field" Url="html/5cd2d55a-5387-5763-3856-89688df69b6e.htm" />
+  <HelpKINode Title="Constants.nostrilL3tx_MAX_AU20 field" Url="html/d43e3c39-e682-d463-e425-a709b463a038.htm" />
+  <HelpKINode Title="Constants.nostrilL3tx_MAX_AU38 field" Url="html/96aa3ebd-6d8b-419c-e905-95dd8be0089c.htm" />
+  <HelpKINode Title="Constants.nostrilL3tx_MAX_AU39 field" Url="html/2e9731db-1370-793b-0191-bf5c6aa73521.htm" />
+  <HelpKINode Title="Constants.nostrilL3tx_MAX_AU9 field" Url="html/a77349e7-31b9-421c-879f-a7ae47a3a182.htm" />
+  <HelpKINode Title="Constants.nostrilL3ty_MAX_AU10 field" Url="html/04f7fc29-2df4-0c30-a3c6-374cf29ebd58.htm" />
+  <HelpKINode Title="Constants.nostrilL3ty_MAX_AU25 field" Url="html/79993462-0461-20ac-5e5d-42a1f4abe8f0.htm" />
+  <HelpKINode Title="Constants.nostrilL3ty_MAX_AU38 field" Url="html/c4f00f29-640e-8c7d-d432-c023493310f6.htm" />
+  <HelpKINode Title="Constants.nostrilL3ty_MAX_AU39 field" Url="html/a937e777-1957-b448-0ee9-cabe0003ac36.htm" />
+  <HelpKINode Title="Constants.nostrilL3ty_MAX_AU9 field" Url="html/ce55df99-8935-929e-f5d7-a8d30a9546de.htm" />
+  <HelpKINode Title="Constants.nostrilR3tx_MAX_AU10 field" Url="html/2a4b8f88-8225-36b7-8dd6-d439627e6acc.htm" />
+  <HelpKINode Title="Constants.nostrilR3tx_MAX_AU11 field" Url="html/93ef67c6-be51-30f0-f12a-2d6bc94d164c.htm" />
+  <HelpKINode Title="Constants.nostrilR3tx_MAX_AU20 field" Url="html/a17f0d8c-783b-8381-1173-9db4f15db5a8.htm" />
+  <HelpKINode Title="Constants.nostrilR3tx_MAX_AU38 field" Url="html/9fd036fd-6344-9c65-9890-61737f4a462f.htm" />
+  <HelpKINode Title="Constants.nostrilR3tx_MAX_AU39 field" Url="html/c68874dd-9a5e-54c7-d2e0-02716f7ee1ae.htm" />
+  <HelpKINode Title="Constants.nostrilR3tx_MAX_AU9 field" Url="html/b11dc0ee-f527-4797-8b45-3a010e64bda1.htm" />
+  <HelpKINode Title="Constants.nostrilR3ty_MAX_AU10 field" Url="html/6a9e1139-618e-8c06-ff77-d53c1b32bd85.htm" />
+  <HelpKINode Title="Constants.nostrilR3ty_MAX_AU25 field" Url="html/663c80c7-0815-8003-f990-171d3ccaba74.htm" />
+  <HelpKINode Title="Constants.nostrilR3ty_MAX_AU38 field" Url="html/a36fc2d2-f90e-8e08-82da-d435fb784173.htm" />
+  <HelpKINode Title="Constants.nostrilR3ty_MAX_AU39 field" Url="html/f4a6aa47-2607-07da-1cec-520306873ed3.htm" />
+  <HelpKINode Title="Constants.nostrilR3ty_MAX_AU9 field" Url="html/11591401-d493-efb2-693d-d5fd48e4e504.htm" />
+  <HelpKINode Title="Constants.ow_MAX_AU10 field" Url="html/dbdd5a4c-261f-694c-2a93-d6c8b0736bf1.htm" />
+  <HelpKINode Title="Constants.ow_MAX_AU17 field" Url="html/e25ed317-a69e-2baa-e3db-7e4321d537ae.htm" />
+  <HelpKINode Title="Constants.ow_MAX_AU20 field" Url="html/3643e21f-617c-abb9-3498-70c1383a91d1.htm" />
+  <HelpKINode Title="Constants.RBrowUD_MAX_AU2 field" Url="html/2423511d-f8be-62f9-ca8b-2fee5300ae79.htm" />
+  <HelpKINode Title="Constants.RBrowUD_MAX_AU4 field" Url="html/00117779-bc3c-08b6-f14f-e829db9a9fb7.htm" />
+  <HelpKINode Title="Constants.RBrowUD_MAX_AU44 field" Url="html/2fdd4378-8cb6-8a73-52a7-35a60146b7b1.htm" />
+  <HelpKINode Title="Constants.REyeBallLR_MAX_AU61 field" Url="html/02c2cf13-eca6-dc7d-799c-65895b7259ae.htm" />
+  <HelpKINode Title="Constants.REyeBallLR_MAX_AU62 field" Url="html/c52750c7-edb4-923e-2c42-f35d16523ce5.htm" />
+  <HelpKINode Title="Constants.REyeBallLR_MAX_AU65 field" Url="html/ac43410d-fc1a-c7d6-e6fc-6d9dbe0b60a7.htm" />
+  <HelpKINode Title="Constants.REyeBallLR_MAX_AU66 field" Url="html/9bfca695-da20-abad-d8a9-ab7a9d458946.htm" />
+  <HelpKINode Title="Constants.REyeBallUD_MAX_AU63 field" Url="html/ffc19af4-40cb-788b-53a1-8fde42839635.htm" />
+  <HelpKINode Title="Constants.REyeBallUD_MAX_AU64 field" Url="html/9c2a300c-9ad0-a171-2288-674af063d0f1.htm" />
+  <HelpKINode Title="Constants.smile3_MAX_AU12 field" Url="html/2ac8db27-e992-46ea-0953-2391f8f5c20c.htm" />
+  <HelpKINode Title="Constants.smile3_MAX_AU6 field" Url="html/34e11222-3e53-a983-f881-4963b81f189a.htm" />
+  <HelpKINode Title="Constants.smirkL_MAX_AU14 field" Url="html/bdaa5d64-93e4-a738-6219-00a066f86659.htm" />
+  <HelpKINode Title="Constants.smirk_MAX_AU14 field" Url="html/8abce071-0e69-2fd3-e3b9-e876b8485502.htm" />
+  <HelpKINode Title="Constants.th_MAX_AU16 field" Url="html/20571b6a-d778-ec61-8f3f-abd91e972b0d.htm" />
+  <HelpKINode Title="Constants.th_MAX_AU20 field" Url="html/3b92681a-ae55-f6d7-cc59-672b0d1d375b.htm" />
+  <HelpKINode Title="Constants.trust_MAX_AU41 field" Url="html/776b0507-4cda-894a-4f49-123ddc6ffade.htm" />
+  <HelpKINode Title="Constants.trust_MAX_AU5 field" Url="html/02d88c01-b419-0d0b-7e9d-ad52b053f2dd.htm" />
+  <HelpKINode Title="Constants.uh_MAX_AU10 field" Url="html/1f9f6f3e-5573-f57d-16b1-5dfa0f2c1fd8.htm" />
+  <HelpKINode Title="Constants.uh_MAX_AU11 field" Url="html/8fda156b-67c1-bd30-d6c9-c9288ed7e3d1.htm" />
+  <HelpKINode Title="Constants.uw_MAX_AU22 field" Url="html/02962f6f-fabf-e285-26b3-9ca81c059934.htm" />
+  <HelpKINode Title="Contempt method" Url="html/a1f4c4e5-68a2-82af-9aa4-00317804c836.htm" />
+  <HelpKINode Title="convertIntensityToNumber method" Url="html/cf548451-16d5-180c-2fbd-adfd543b14e8.htm" />
+  <HelpKINode Title="DIntensity field" Url="html/77d130d3-7eac-790a-fce7-fea97b7df7c3.htm" />
+  <HelpKINode Title="Disgust method" Url="html/bb41a572-aba2-4456-b279-73a99c6035e8.htm" />
+  <HelpKINode Title="distrust_MAX_AU7 field" Url="html/ae2ee50e-8665-fc2a-1600-c02009c97232.htm" />
+  <HelpKINode Title="d_MAX_AU10 field" Url="html/024ec7ee-9676-ef4d-60e2-46b26cc03247.htm" />
+  <HelpKINode Title="d_MAX_AU11 field" Url="html/e8417a67-8465-3c77-b4da-b11c95bfc8c2.htm" />
+  <HelpKINode Title="d_MAX_AU28 field" Url="html/5385920c-78c1-237e-11eb-545a387e785e.htm" />
+  <HelpKINode Title="Embarrassment method" Url="html/d257d8ea-204a-2dd4-720e-a4ef62c6d76b.htm" />
+  <HelpKINode Title="eyes_sad_MAX_AU4 field" Url="html/958a5f30-34b8-0371-5736-c1b85586414a.htm" />
+  <HelpKINode Title="eyes_sad_MAX_AU44 field" Url="html/06afe703-e25e-dc0f-c957-c499e7b1d085.htm" />
+  <HelpKINode Title="ey_MAX_AU27 field" Url="html/b3a01f23-8532-44ff-506a-b7f2c5377579.htm" />
+  <HelpKINode Title="Fear method" Url="html/19521593-12e9-2e09-0901-c07e5c00eb51.htm" />
+  <HelpKINode Title="f_MAX_AU28 field" Url="html/ff2bb532-36db-c550-e579-5309bb7fbab0.htm" />
+  <HelpKINode Title="generateFace method" Url="html/8701f449-9a19-87e2-c717-8cbc9de24169.htm" />
+  <HelpKINode Title="generateVideo method" Url="html/b068fd9c-af8c-228b-9e77-9728e1576ed8.htm" />
+  <HelpKINode Title="getAnimation method" Url="html/bdb07237-b951-d3f3-5ee9-088bf8038d0c.htm" />
+  <HelpKINode Title="getAU method" Url="html/07bc3988-f36d-ce8c-99df-9cbaf4ca8f19.htm" />
+  <HelpKINode Title="getEndIntensity method" Url="html/8f734a7c-40b8-89a6-84c5-115a7f112f62.htm" />
+  <HelpKINode Title="getEndTime method" Url="html/4099b793-ea86-4445-1294-92ace7a072cd.htm" />
+  <HelpKINode Title="getSide method" Url="html/3fb34e91-cc7c-8d4c-44e2-81feb7e877a9.htm" />
+  <HelpKINode Title="getStartIntensity method" Url="html/453a768c-3822-4474-f47a-afacbe1990db.htm" />
+  <HelpKINode Title="getStartTime method" Url="html/ad58f691-f259-ee77-6aff-e390d75ba406.htm" />
+  <HelpKINode Title="getTextToSpeak method" Url="html/81c94ee4-e5bb-5e02-2e47-3034467e665e.htm" />
+  <HelpKINode Title="HapFACS class">
+    <HelpKINode Title="HapFACS Class" Url="html/a6f21c47-e2c9-f63f-7479-2afaeab87aaa.htm" />
+    <HelpKINode Title="about HapFACS class" Url="html/a6f21c47-e2c9-f63f-7479-2afaeab87aaa.htm" />
+    <HelpKINode Title="constructor" Url="html/d1b97049-86be-e6a1-81e0-f1135daaab43.htm" />
+    <HelpKINode Title="methods" Url="html/35f428d7-9bea-054d-2da7-4481308c6391.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HapFACS namespace" Url="html/630c31ff-e0ca-7e49-f49d-b054ff443c25.htm" />
+  <HelpKINode Title="HapFACS.AboutBox class" Url="html/e37d49fb-38c9-af69-6032-bb59366050e2.htm" />
+  <HelpKINode Title="HapFACS.Animation class" Url="html/b2b8ec9e-635d-4643-e09b-dbd7888ba8a8.htm" />
+  <HelpKINode Title="HapFACS.AnimationSector class" Url="html/ce9682f6-b677-5125-12b1-829877600dbe.htm" />
+  <HelpKINode Title="HapFACS.AU1 method" Url="html/475fb639-73ab-a60c-ae46-717501868086.htm" />
+  <HelpKINode Title="HapFACS.AU10 method" Url="html/dafa6549-5b5c-4784-2996-6d3163f95730.htm" />
+  <HelpKINode Title="HapFACS.AU11 method" Url="html/48ccdfa9-dcc7-2255-7175-26ce3fda454e.htm" />
+  <HelpKINode Title="HapFACS.AU12 method" Url="html/8d5b33f2-3e58-15c9-97e0-61753df5e813.htm" />
+  <HelpKINode Title="HapFACS.AU13 method" Url="html/d2792fbf-d381-8225-5a7e-d2db52bd4d69.htm" />
+  <HelpKINode Title="HapFACS.AU14 method" Url="html/22967d9c-dc85-a99a-94ca-9ec1fce78a8d.htm" />
+  <HelpKINode Title="HapFACS.AU15 method" Url="html/53e84544-b744-0c35-0696-0ee52429edf8.htm" />
+  <HelpKINode Title="HapFACS.AU16 method" Url="html/52c6b06b-5514-851d-91bd-0f8d2147b7dc.htm" />
+  <HelpKINode Title="HapFACS.AU17 method" Url="html/bbd30fe1-994b-618d-9786-63df0beb213c.htm" />
+  <HelpKINode Title="HapFACS.AU18 method" Url="html/39fd767e-50d2-4e9f-fdca-097c1e4ec855.htm" />
+  <HelpKINode Title="HapFACS.AU2 method" Url="html/830bd5ed-6dcd-c4e3-93a6-409c4a2e3ddd.htm" />
+  <HelpKINode Title="HapFACS.AU20 method" Url="html/75c7d33b-ac7a-c1de-2389-4be081e2243f.htm" />
+  <HelpKINode Title="HapFACS.AU22 method" Url="html/ebe9e599-d9c5-09b5-e714-d8671a0bba90.htm" />
+  <HelpKINode Title="HapFACS.AU23 method" Url="html/03f05c1d-2ca7-1c95-582b-1518886ffb3d.htm" />
+  <HelpKINode Title="HapFACS.AU24 method" Url="html/8d39f2de-9bda-5ea2-9c11-37da67806a73.htm" />
+  <HelpKINode Title="HapFACS.AU25 method" Url="html/ffbc7740-9988-ede3-d6e6-98bc7b0dc2e2.htm" />
+  <HelpKINode Title="HapFACS.AU26 method" Url="html/d20dbdb6-7796-f131-2996-2cd1f12a9e70.htm" />
+  <HelpKINode Title="HapFACS.AU27 method" Url="html/a681e173-3d37-d0f5-a37b-4fdbde3a2019.htm" />
+  <HelpKINode Title="HapFACS.AU28 method" Url="html/ddf27469-89b6-ca7a-45a8-bd6f441a29c9.htm" />
+  <HelpKINode Title="HapFACS.AU38 method" Url="html/288f3826-0eaa-2df9-f59f-4c8edd694d95.htm" />
+  <HelpKINode Title="HapFACS.AU39 method" Url="html/d373f7a6-b612-b41d-22ed-ffc01497a69a.htm" />
+  <HelpKINode Title="HapFACS.AU4 method" Url="html/fd6a3a09-a4e1-9e88-808a-d024ff9194ca.htm" />
+  <HelpKINode Title="HapFACS.AU41 method" Url="html/4dbb2ae0-1aea-4f55-be6f-709626cc3b4b.htm" />
+  <HelpKINode Title="HapFACS.AU42 method" Url="html/74aa9b7c-7b8b-762d-1166-5b1404d5e938.htm" />
+  <HelpKINode Title="HapFACS.AU43 method" Url="html/4aca889f-2198-f538-ff0d-70aa7106bbeb.htm" />
+  <HelpKINode Title="HapFACS.AU44 method" Url="html/5b9379f6-36ef-016f-e7e0-9bffee967ab2.htm" />
+  <HelpKINode Title="HapFACS.AU45 method" Url="html/dc299908-3b74-97cd-d4e4-963085512760.htm" />
+  <HelpKINode Title="HapFACS.AU46 method" Url="html/81b8b81c-1eb6-eccd-8404-012e872c5b88.htm" />
+  <HelpKINode Title="HapFACS.AU5 method" Url="html/bc4e5d7e-0248-75d8-040a-8835930b6611.htm" />
+  <HelpKINode Title="HapFACS.AU51 method" Url="html/a96f0aa5-80a0-a61a-70ed-d47664475d76.htm" />
+  <HelpKINode Title="HapFACS.AU52 method" Url="html/8cf450f9-f0f5-535b-8034-a3a7fdb5f4f1.htm" />
+  <HelpKINode Title="HapFACS.AU53 method" Url="html/2a09ed8c-5967-478f-42f6-139a3a49c647.htm" />
+  <HelpKINode Title="HapFACS.AU54 method" Url="html/6fa0386e-4552-b0ba-5731-b342c0bfcfe7.htm" />
+  <HelpKINode Title="HapFACS.AU55 method" Url="html/c20c1877-c17f-bc39-9dc6-4be1454502cc.htm" />
+  <HelpKINode Title="HapFACS.AU56 method" Url="html/18adda01-df4d-bbd8-5a55-82ac2e398cd6.htm" />
+  <HelpKINode Title="HapFACS.AU57 method" Url="html/5477b0e0-c1f3-cacc-d8e2-b7b89c16d051.htm" />
+  <HelpKINode Title="HapFACS.AU58 method" Url="html/e198d040-f985-aac8-008b-799bfc7c41f7.htm" />
+  <HelpKINode Title="HapFACS.AU6 method" Url="html/e60c10dc-8047-45cb-9787-fe0a5f1c65ff.htm" />
+  <HelpKINode Title="HapFACS.AU61 method" Url="html/a0a7380c-10d8-5ed8-8440-8a07356778eb.htm" />
+  <HelpKINode Title="HapFACS.AU62 method" Url="html/b9326124-081b-e0c6-78c9-3dfdd0d2646a.htm" />
+  <HelpKINode Title="HapFACS.AU63 method" Url="html/21d1f18c-8c8b-b83d-5350-c95ba4a27adf.htm" />
+  <HelpKINode Title="HapFACS.AU64 method" Url="html/69d7e7c2-178d-6de7-738e-dc8479739cb0.htm" />
+  <HelpKINode Title="HapFACS.AU65 method" Url="html/cc1f8cc8-b327-d99c-f33c-beba4a3320dc.htm" />
+  <HelpKINode Title="HapFACS.AU66 method" Url="html/e0298161-6d8e-77a1-4039-83d74692d239.htm" />
+  <HelpKINode Title="HapFACS.AU7 method" Url="html/5e776c01-56aa-7448-7fad-b90f86c6a874.htm" />
+  <HelpKINode Title="HapFACS.AU8 method" Url="html/3d2d1532-3717-da7a-0b00-44e0f610d173.htm" />
+  <HelpKINode Title="HapFACS.AU9 method" Url="html/67cbe5a7-013e-9100-48ca-964274127003.htm" />
+  <HelpKINode Title="HapFACS.AUM59 method" Url="html/816fe788-560a-103f-7d94-71b8af8f733f.htm" />
+  <HelpKINode Title="HapFACS.AUM60 method" Url="html/313bf73b-21c7-a4cf-68eb-4aa53ed6d451.htm" />
+  <HelpKINode Title="HapFACS.Constants class" Url="html/ed468d4a-b432-f76c-e7d8-afe60f34e0ab.htm" />
+  <HelpKINode Title="HapFACS.generateFace method" Url="html/8701f449-9a19-87e2-c717-8cbc9de24169.htm" />
+  <HelpKINode Title="HapFACS.HapFACS class" Url="html/a6f21c47-e2c9-f63f-7479-2afaeab87aaa.htm" />
+  <HelpKINode Title="HapFACS.HapFACS constructor" Url="html/d1b97049-86be-e6a1-81e0-f1135daaab43.htm" />
+  <HelpKINode Title="HapFACS.HapFACSEmotion class" Url="html/47cfac5e-938a-32f5-115e-954d032af54b.htm" />
+  <HelpKINode Title="HapFACS.HapFACSVideo class" Url="html/97496464-3663-7a14-601f-c9bd64769485.htm" />
+  <HelpKINode Title="HapFACS.HapFACS_UserInterface class" Url="html/d9742399-8272-cbbe-f6dd-ef6fc6e0c418.htm" />
+  <HelpKINode Title="HapFACS.LicenseMenu class" Url="html/8fbdb91e-10a3-d4f1-681c-796ea8ff5f0f.htm" />
+  <HelpKINode Title="HapFACS.Program class" Url="html/371ebf68-6738-8123-e140-6de5564c6236.htm" />
+  <HelpKINode Title="HapFACS.resetAllAUs method" Url="html/fea5e89f-d0ae-9500-6123-09c5cefab8ab.htm" />
+  <HelpKINode Title="HapFACS.resetAU12 method" Url="html/cd69ce06-be22-0a24-5957-d5f17a48a022.htm" />
+  <HelpKINode Title="HapFACS.resetAU15 method" Url="html/08194b99-2e58-81b1-cf96-8a5fa166610b.htm" />
+  <HelpKINode Title="HapFACS.resetAU20 method" Url="html/3156f4b3-04b0-b78b-40c7-42e6e6630446.htm" />
+  <HelpKINode Title="HapFACS.resetAU26 method" Url="html/d1666608-7ddf-30a1-2f64-c5d63424296a.htm" />
+  <HelpKINode Title="HapFACS.resetAU5 method" Url="html/9ab1ddaf-aae3-4c7f-362a-0263ca8902f8.htm" />
+  <HelpKINode Title="HapFACS.resetAU64 method" Url="html/85887ed2-994c-b577-7909-cc1f2666c022.htm" />
+  <HelpKINode Title="HapFACS.resetHeadAndEyeAUs method" Url="html/8ec3aade-04e8-be49-9d39-75aa3e485e0c.htm" />
+  <HelpKINode Title="HapFACS.resetLowerAUs method" Url="html/0132a53e-3093-b009-9865-f79031ea95b1.htm" />
+  <HelpKINode Title="HapFACS.resetUpperAUs method" Url="html/ade4892f-1d20-6f06-962a-70ed0526d5bb.htm" />
+  <HelpKINode Title="HapFACSEmotion class">
+    <HelpKINode Title="HapFACSEmotion Class" Url="html/47cfac5e-938a-32f5-115e-954d032af54b.htm" />
+    <HelpKINode Title="about HapFACSEmotion class" Url="html/47cfac5e-938a-32f5-115e-954d032af54b.htm" />
+    <HelpKINode Title="constructor" Url="html/1714bbaa-6829-9366-5113-25f6288048a1.htm" />
+    <HelpKINode Title="methods" Url="html/0dee9ed1-f4c1-e953-0d29-86749c560d7d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HapFACSEmotion.Anger method" Url="html/b2f2fbd8-af92-2700-db4e-cceb70c4926c.htm" />
+  <HelpKINode Title="HapFACSEmotion.Contempt method" Url="html/a1f4c4e5-68a2-82af-9aa4-00317804c836.htm" />
+  <HelpKINode Title="HapFACSEmotion.Disgust method" Url="html/bb41a572-aba2-4456-b279-73a99c6035e8.htm" />
+  <HelpKINode Title="HapFACSEmotion.Embarrassment method" Url="html/d257d8ea-204a-2dd4-720e-a4ef62c6d76b.htm" />
+  <HelpKINode Title="HapFACSEmotion.Fear method" Url="html/19521593-12e9-2e09-0901-c07e5c00eb51.htm" />
+  <HelpKINode Title="HapFACSEmotion.HapFACSEmotion constructor" Url="html/1714bbaa-6829-9366-5113-25f6288048a1.htm" />
+  <HelpKINode Title="HapFACSEmotion.Happiness method" Url="html/466cb4b1-457b-199a-304c-603b440ebc9d.htm" />
+  <HelpKINode Title="HapFACSEmotion.Neutral method" Url="html/56abf6cc-ddc3-f731-2db5-55969ca9c814.htm" />
+  <HelpKINode Title="HapFACSEmotion.Pride method" Url="html/e3157f44-84fc-c68b-0fde-36b52ad373ee.htm" />
+  <HelpKINode Title="HapFACSEmotion.Sadness method" Url="html/2e8c94b6-2430-257c-da1f-81ca18b7e601.htm" />
+  <HelpKINode Title="HapFACSEmotion.Surprise method" Url="html/04cd4b66-56c5-9a49-d571-56df41707034.htm" />
+  <HelpKINode Title="HapFACSVideo class">
+    <HelpKINode Title="HapFACSVideo Class" Url="html/97496464-3663-7a14-601f-c9bd64769485.htm" />
+    <HelpKINode Title="about HapFACSVideo class" Url="html/97496464-3663-7a14-601f-c9bd64769485.htm" />
+    <HelpKINode Title="constructor" Url="html/b52e2447-29cd-4c12-6ce4-c1e63c1090a5.htm" />
+    <HelpKINode Title="methods" Url="html/e82434fc-ad64-8e2a-775a-77d61355a8e9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HapFACSVideo.AU10Video method" Url="html/fc36ddbd-6a99-cb23-e4ae-e6fe6455effb.htm" />
+  <HelpKINode Title="HapFACSVideo.AU11Video method" Url="html/fc84733e-eae7-a810-a865-f0f5630f2059.htm" />
+  <HelpKINode Title="HapFACSVideo.AU12Video method" Url="html/2d66473a-cd33-ebd4-a6d8-ee7a90f3509a.htm" />
+  <HelpKINode Title="HapFACSVideo.AU13Video method" Url="html/c799d099-957d-3403-4057-2ba554ccd4b5.htm" />
+  <HelpKINode Title="HapFACSVideo.AU14Video method" Url="html/799734a9-553e-7769-9027-e3c0fdded27e.htm" />
+  <HelpKINode Title="HapFACSVideo.AU15Video method" Url="html/bfb23674-d2db-a91c-223c-4da8b6fc9be0.htm" />
+  <HelpKINode Title="HapFACSVideo.AU16Video method" Url="html/90600ade-39b2-fc04-a092-35afaa9bc2e2.htm" />
+  <HelpKINode Title="HapFACSVideo.AU17Video method" Url="html/f9927124-a579-ab30-55ba-ef53b2c650fd.htm" />
+  <HelpKINode Title="HapFACSVideo.AU18Video method" Url="html/f6b9070d-5802-d0f1-5b55-776b4693a48c.htm" />
+  <HelpKINode Title="HapFACSVideo.AU1Video method" Url="html/ac65a93f-b0b8-18fc-8b49-97e28d803665.htm" />
+  <HelpKINode Title="HapFACSVideo.AU20Video method" Url="html/d506724a-1ed9-9a69-794d-96fc38acaedd.htm" />
+  <HelpKINode Title="HapFACSVideo.AU22Video method" Url="html/bc46d1ae-e11a-677d-7c01-9f1679645ab7.htm" />
+  <HelpKINode Title="HapFACSVideo.AU23Video method" Url="html/4fe4dcf1-a234-4f30-8f7d-19b791ed10bf.htm" />
+  <HelpKINode Title="HapFACSVideo.AU24Video method" Url="html/17e9ab50-1b66-84eb-0dd6-8cda165802c7.htm" />
+  <HelpKINode Title="HapFACSVideo.AU25Video method" Url="html/6fe57517-cfcb-364d-273e-cf5a1385317b.htm" />
+  <HelpKINode Title="HapFACSVideo.AU26Video method" Url="html/eec16474-f850-8b79-6808-abb98320ea50.htm" />
+  <HelpKINode Title="HapFACSVideo.AU27Video method" Url="html/39b5ac04-5160-efe1-047b-0de19cb92762.htm" />
+  <HelpKINode Title="HapFACSVideo.AU28Video method" Url="html/c561df12-3b6d-d9bd-2a21-20e1394a3dae.htm" />
+  <HelpKINode Title="HapFACSVideo.AU2Video method" Url="html/848de089-7be0-d04a-ef07-26744571bcf1.htm" />
+  <HelpKINode Title="HapFACSVideo.AU38Video method" Url="html/c67e773f-76a5-6bec-92c4-6a398c6e208d.htm" />
+  <HelpKINode Title="HapFACSVideo.AU39Video method" Url="html/79704a43-ef28-bf5a-7ec1-ead9b3af00f6.htm" />
+  <HelpKINode Title="HapFACSVideo.AU41Video method" Url="html/6c14975b-6e15-4cc5-e7d6-f4b73efbd873.htm" />
+  <HelpKINode Title="HapFACSVideo.AU42Video method" Url="html/f3b68181-3a48-0c5b-4ae2-6ca946a66e64.htm" />
+  <HelpKINode Title="HapFACSVideo.AU43Video method" Url="html/6dcad5dc-e7a3-eeaa-ef6d-ad124ac1fe2f.htm" />
+  <HelpKINode Title="HapFACSVideo.AU44Video method" Url="html/8099155b-786c-b5f7-fe26-aa35a9133197.htm" />
+  <HelpKINode Title="HapFACSVideo.AU45Video method" Url="html/05fc5983-664e-f87d-e014-0ba21bc563ea.htm" />
+  <HelpKINode Title="HapFACSVideo.AU46Video method" Url="html/e777ccd5-fe58-cbde-884f-c56c989e5472.htm" />
+  <HelpKINode Title="HapFACSVideo.AU4Video method" Url="html/16f7d796-f9ea-899e-71b7-0ed0161dc905.htm" />
+  <HelpKINode Title="HapFACSVideo.AU51Video method" Url="html/e5f136f3-9b1a-de20-922e-082e3944024b.htm" />
+  <HelpKINode Title="HapFACSVideo.AU52Video method" Url="html/b2b74200-1e7f-4745-2042-7f7b31519a51.htm" />
+  <HelpKINode Title="HapFACSVideo.AU53Video method" Url="html/045acd69-bf0e-10e4-fb31-a316217c4780.htm" />
+  <HelpKINode Title="HapFACSVideo.AU54Video method" Url="html/c836fe23-3033-c67c-3e24-5c9975c1d0d4.htm" />
+  <HelpKINode Title="HapFACSVideo.AU55Video method" Url="html/89598201-d152-a94a-ea53-98cb1d748e1e.htm" />
+  <HelpKINode Title="HapFACSVideo.AU56Video method" Url="html/89208abb-ef98-5d8d-919d-033d106e4e14.htm" />
+  <HelpKINode Title="HapFACSVideo.AU57Video method" Url="html/9f071be0-2332-57ee-c125-3bd7a1224c1c.htm" />
+  <HelpKINode Title="HapFACSVideo.AU58Video method" Url="html/88ef23ef-b00e-9696-7e07-d9e2824508e0.htm" />
+  <HelpKINode Title="HapFACSVideo.AU5Video method" Url="html/70324d3f-910a-e838-c036-c600c47582d3.htm" />
+  <HelpKINode Title="HapFACSVideo.AU61Video method" Url="html/20f7cba7-83c1-eaec-2904-d1a66aa9b4dd.htm" />
+  <HelpKINode Title="HapFACSVideo.AU62Video method" Url="html/014dd62a-9c53-e41f-7a27-640a401e3484.htm" />
+  <HelpKINode Title="HapFACSVideo.AU63Video method" Url="html/7354f684-818b-2179-be39-73168d9f83bd.htm" />
+  <HelpKINode Title="HapFACSVideo.AU64Video method" Url="html/f97484c1-b552-3265-c047-75b830b723d9.htm" />
+  <HelpKINode Title="HapFACSVideo.AU65Video method" Url="html/ef0e686e-8f59-00d7-6c1f-da52ce191cd7.htm" />
+  <HelpKINode Title="HapFACSVideo.AU66Video method" Url="html/0ebd43ad-f26a-f9c9-a527-d03d3547fbc0.htm" />
+  <HelpKINode Title="HapFACSVideo.AU6Video method" Url="html/a0d32af7-8bb0-c3b2-01c0-821e41a34697.htm" />
+  <HelpKINode Title="HapFACSVideo.AU7Video method" Url="html/f59822df-463c-824b-d11e-c8cc42ffa901.htm" />
+  <HelpKINode Title="HapFACSVideo.AU8Video method" Url="html/5fdb4659-34d3-9560-c526-e9d45f190367.htm" />
+  <HelpKINode Title="HapFACSVideo.AU9Video method" Url="html/87f8d3ba-f6f7-9e78-e924-ec868951ed11.htm" />
+  <HelpKINode Title="HapFACSVideo.AUM59Video method" Url="html/23eee3f5-1b47-9bbf-fb56-bae0cf122141.htm" />
+  <HelpKINode Title="HapFACSVideo.AUM60Video method" Url="html/f197b78e-b93e-66af-6496-6a117e8a2df2.htm" />
+  <HelpKINode Title="HapFACSVideo.convertIntensityToNumber method" Url="html/cf548451-16d5-180c-2fbd-adfd543b14e8.htm" />
+  <HelpKINode Title="HapFACSVideo.generateVideo method" Url="html/b068fd9c-af8c-228b-9e77-9728e1576ed8.htm" />
+  <HelpKINode Title="HapFACSVideo.HapFACSVideo constructor" Url="html/b52e2447-29cd-4c12-6ce4-c1e63c1090a5.htm" />
+  <HelpKINode Title="HapFACSVideo.resetAllAUs method" Url="html/625db3e8-9437-9efc-aebf-8707c64eb5a4.htm" />
+  <HelpKINode Title="HapFACSVideo.resetAU20 method" Url="html/7187b007-3f3b-2a21-178c-88b20c123951.htm" />
+  <HelpKINode Title="HapFACSVideo.resetHeadAndEyeAUs method" Url="html/1ba647d9-809f-ba16-18a2-82be2bbba8c3.htm" />
+  <HelpKINode Title="HapFACSVideo.resetLowerAUs method" Url="html/ad0ae380-4ad3-9f91-73b9-55ea1ca70098.htm" />
+  <HelpKINode Title="HapFACSVideo.resetUpperAUs method" Url="html/6f130c5e-03bd-9c39-5992-535db6801752.htm" />
+  <HelpKINode Title="HapFACSVideo.setAnimationDuration method" Url="html/7dede842-6218-b724-70a0-c87e36b6a6a1.htm" />
+  <HelpKINode Title="HapFACSVideo.SpeakVideo method" Url="html/9e8e72be-7292-f4f6-2fbb-2e2d400c9bb6.htm" />
+  <HelpKINode Title="HapFACS_UserInterface class">
+    <HelpKINode Title="HapFACS_UserInterface Class" Url="html/d9742399-8272-cbbe-f6dd-ef6fc6e0c418.htm" />
+    <HelpKINode Title="about HapFACS_UserInterface class" Url="html/d9742399-8272-cbbe-f6dd-ef6fc6e0c418.htm" />
+    <HelpKINode Title="constructor" Url="html/9712f8b3-7941-adc3-c291-1af90000c619.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HapFACS_UserInterface.HapFACS_UserInterface constructor" Url="html/9712f8b3-7941-adc3-c291-1af90000c619.htm" />
+  <HelpKINode Title="Happiness method" Url="html/466cb4b1-457b-199a-304c-603b440ebc9d.htm" />
+  <HelpKINode Title="HeadForward_MAX_AU53 field" Url="html/4487d884-dfff-ff20-6983-6b2a8df1ecf0.htm" />
+  <HelpKINode Title="HeadForward_MAX_AU54 field" Url="html/dda953aa-4dbc-f2d0-1d7f-a58c44a0ff72.htm" />
+  <HelpKINode Title="HeadForward_MAX_AU57 field" Url="html/e6db5225-9542-4964-8100-dd095b45d599.htm" />
+  <HelpKINode Title="HeadForward_MAX_AU58 field" Url="html/9d3094ca-7fdf-a3fd-eb01-c42de112e26c.htm" />
+  <HelpKINode Title="HeadSideBend_MAX_AU55 field" Url="html/057c519d-7d53-645c-3fbe-844297e6f3fb.htm" />
+  <HelpKINode Title="HeadSideBend_MAX_AU56 field" Url="html/970d2d41-a4a1-e99d-505e-b260bdcca9b0.htm" />
+  <HelpKINode Title="HeadTwist_MAX_AU51 field" Url="html/c9c04392-dd39-3a83-0c37-5999bb97577c.htm" />
+  <HelpKINode Title="HeadTwist_MAX_AU52 field" Url="html/36130ae9-b26f-4771-8ca0-762bcb1a4377.htm" />
+  <HelpKINode Title="iy_MAX_AU10 field" Url="html/1b8ce625-ac6e-6ac9-b0a0-5687a8582042.htm" />
+  <HelpKINode Title="kiss_MAX_AU18 field" Url="html/5b8d52a8-315f-1c52-17f3-dd1039d8a41d.htm" />
+  <HelpKINode Title="kiss_MAX_AU24 field" Url="html/e8a96cc7-eaf7-22d4-500b-5dd5d8fbfd54.htm" />
+  <HelpKINode Title="kiss_MAX_AU6 field" Url="html/ccf7aa66-d224-1700-6d7d-b21235023837.htm" />
+  <HelpKINode Title="LBrowUD_MAX_AU2 field" Url="html/83253a7c-6529-0898-c1f3-8fa0ba7add4b.htm" />
+  <HelpKINode Title="LBrowUD_MAX_AU4 field" Url="html/f8b63464-02be-9523-8c89-b58e2bf00a61.htm" />
+  <HelpKINode Title="LBrowUD_MAX_AU44 field" Url="html/d147aafa-fd96-bfbd-d5d4-c84d6935b988.htm" />
+  <HelpKINode Title="LEyeBallLR_MAX_AU61 field" Url="html/35717208-997d-18e7-1844-c02b1b319326.htm" />
+  <HelpKINode Title="LEyeBallLR_MAX_AU62 field" Url="html/b6d46b0f-a127-2b11-fd98-e10e47591061.htm" />
+  <HelpKINode Title="LEyeBallLR_MAX_AU65 field" Url="html/9242bb54-7161-d0b9-b64a-45e66b98e70d.htm" />
+  <HelpKINode Title="LEyeBallLR_MAX_AU66 field" Url="html/293b36ac-7749-8c77-9190-08616450a16c.htm" />
+  <HelpKINode Title="LEyeBallUD_MAX_AU63 field" Url="html/88139feb-3f24-7f20-b571-eeeda5f981d8.htm" />
+  <HelpKINode Title="LEyeBallUD_MAX_AU64 field" Url="html/a0854ac0-85f2-5c7e-0ceb-6e45207a55f3.htm" />
+  <HelpKINode Title="LicenseMenu class">
+    <HelpKINode Title="LicenseMenu Class" Url="html/8fbdb91e-10a3-d4f1-681c-796ea8ff5f0f.htm" />
+    <HelpKINode Title="about LicenseMenu class" Url="html/8fbdb91e-10a3-d4f1-681c-796ea8ff5f0f.htm" />
+    <HelpKINode Title="constructor" Url="html/312a695e-caf3-e591-a204-9ba25a7540fc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LicenseMenu.LicenseMenu constructor" Url="html/312a695e-caf3-e591-a204-9ba25a7540fc.htm" />
+  <HelpKINode Title="lipcornerL3ty_MAX_AU13 field" Url="html/32cc37e4-f77a-dd76-dbf0-52bade4530e5.htm" />
+  <HelpKINode Title="lipcornerL3ty_MAX_AU15 field" Url="html/b21821c1-603c-6442-5e53-9a309f8f2d26.htm" />
+  <HelpKINode Title="lipcornerL3ty_MAX_AU17 field" Url="html/9badc717-b90f-2637-e042-d9b00bcc8de3.htm" />
+  <HelpKINode Title="lipcornerL3ty_MAX_AU20 field" Url="html/a61f33f5-ede8-ead7-c0aa-6e76f7d3a8f8.htm" />
+  <HelpKINode Title="lipcornerL3ty_MAX_AU6 field" Url="html/2430de21-56df-af85-937c-dd393eb30a48.htm" />
+  <HelpKINode Title="lipcornerR3ty_MAX_AU13 field" Url="html/cc02c3a3-ef91-2b82-f290-ac916b544580.htm" />
+  <HelpKINode Title="lipcornerR3ty_MAX_AU15 field" Url="html/52b635d3-b579-3703-12fe-9b9ccb0710ca.htm" />
+  <HelpKINode Title="lipcornerR3ty_MAX_AU17 field" Url="html/e858417c-aff9-3fd7-5b84-46238c191ebd.htm" />
+  <HelpKINode Title="lipcornerR3ty_MAX_AU20 field" Url="html/9f17239e-6d64-4c2f-e3ba-7deea4649d86.htm" />
+  <HelpKINode Title="lipcornerR3ty_MAX_AU6 field" Url="html/56b2f87c-3fb1-dd98-954d-5b72268d4a0a.htm" />
+  <HelpKINode Title="MidBrowUD_MAX_AU1 field" Url="html/a32905c9-0701-4b01-38da-ebd452411343.htm" />
+  <HelpKINode Title="MidBrowUD_MAX_AU4 field" Url="html/796f3b70-6875-af7f-f972-b3738ec7a723.htm" />
+  <HelpKINode Title="MidBrowUD_MAX_AU42 field" Url="html/c4707b56-46c7-d48d-d70f-dd0bcfcdcf0f.htm" />
+  <HelpKINode Title="MidBrowUD_MAX_AU44 field" Url="html/3955f250-01a3-e49e-36f1-f1d909f19394.htm" />
+  <HelpKINode Title="MidBrowUD_MAX_AU9 field" Url="html/7bae85dc-6777-1f83-a671-1251c7385a3b.htm" />
+  <HelpKINode Title="mouth2ty_MAX_AU17 field" Url="html/d25787f4-34ab-20a5-ef57-1f10cec71e66.htm" />
+  <HelpKINode Title="mouth2ty_MAX_AU20 field" Url="html/44fe9635-55f5-fd1b-b665-e9bd94f880ed.htm" />
+  <HelpKINode Title="NeckForward_MAX_AU57 field" Url="html/96c1dd2e-4c35-daee-4299-f18bed8d69e7.htm" />
+  <HelpKINode Title="NeckForward_MAX_AU58 field" Url="html/c01f8559-03b0-4b37-a777-7ec97132b122.htm" />
+  <HelpKINode Title="Neutral method" Url="html/56abf6cc-ddc3-f731-2db5-55969ca9c814.htm" />
+  <HelpKINode Title="nostrilL3tx_MAX_AU10 field" Url="html/af9950d1-ce96-b555-a6d0-44520c5dfe5c.htm" />
+  <HelpKINode Title="nostrilL3tx_MAX_AU11 field" Url="html/5cd2d55a-5387-5763-3856-89688df69b6e.htm" />
+  <HelpKINode Title="nostrilL3tx_MAX_AU20 field" Url="html/d43e3c39-e682-d463-e425-a709b463a038.htm" />
+  <HelpKINode Title="nostrilL3tx_MAX_AU38 field" Url="html/96aa3ebd-6d8b-419c-e905-95dd8be0089c.htm" />
+  <HelpKINode Title="nostrilL3tx_MAX_AU39 field" Url="html/2e9731db-1370-793b-0191-bf5c6aa73521.htm" />
+  <HelpKINode Title="nostrilL3tx_MAX_AU9 field" Url="html/a77349e7-31b9-421c-879f-a7ae47a3a182.htm" />
+  <HelpKINode Title="nostrilL3ty_MAX_AU10 field" Url="html/04f7fc29-2df4-0c30-a3c6-374cf29ebd58.htm" />
+  <HelpKINode Title="nostrilL3ty_MAX_AU25 field" Url="html/79993462-0461-20ac-5e5d-42a1f4abe8f0.htm" />
+  <HelpKINode Title="nostrilL3ty_MAX_AU38 field" Url="html/c4f00f29-640e-8c7d-d432-c023493310f6.htm" />
+  <HelpKINode Title="nostrilL3ty_MAX_AU39 field" Url="html/a937e777-1957-b448-0ee9-cabe0003ac36.htm" />
+  <HelpKINode Title="nostrilL3ty_MAX_AU9 field" Url="html/ce55df99-8935-929e-f5d7-a8d30a9546de.htm" />
+  <HelpKINode Title="nostrilR3tx_MAX_AU10 field" Url="html/2a4b8f88-8225-36b7-8dd6-d439627e6acc.htm" />
+  <HelpKINode Title="nostrilR3tx_MAX_AU11 field" Url="html/93ef67c6-be51-30f0-f12a-2d6bc94d164c.htm" />
+  <HelpKINode Title="nostrilR3tx_MAX_AU20 field" Url="html/a17f0d8c-783b-8381-1173-9db4f15db5a8.htm" />
+  <HelpKINode Title="nostrilR3tx_MAX_AU38 field" Url="html/9fd036fd-6344-9c65-9890-61737f4a462f.htm" />
+  <HelpKINode Title="nostrilR3tx_MAX_AU39 field" Url="html/c68874dd-9a5e-54c7-d2e0-02716f7ee1ae.htm" />
+  <HelpKINode Title="nostrilR3tx_MAX_AU9 field" Url="html/b11dc0ee-f527-4797-8b45-3a010e64bda1.htm" />
+  <HelpKINode Title="nostrilR3ty_MAX_AU10 field" Url="html/6a9e1139-618e-8c06-ff77-d53c1b32bd85.htm" />
+  <HelpKINode Title="nostrilR3ty_MAX_AU25 field" Url="html/663c80c7-0815-8003-f990-171d3ccaba74.htm" />
+  <HelpKINode Title="nostrilR3ty_MAX_AU38 field" Url="html/a36fc2d2-f90e-8e08-82da-d435fb784173.htm" />
+  <HelpKINode Title="nostrilR3ty_MAX_AU39 field" Url="html/f4a6aa47-2607-07da-1cec-520306873ed3.htm" />
+  <HelpKINode Title="nostrilR3ty_MAX_AU9 field" Url="html/11591401-d493-efb2-693d-d5fd48e4e504.htm" />
+  <HelpKINode Title="ow_MAX_AU10 field" Url="html/dbdd5a4c-261f-694c-2a93-d6c8b0736bf1.htm" />
+  <HelpKINode Title="ow_MAX_AU17 field" Url="html/e25ed317-a69e-2baa-e3db-7e4321d537ae.htm" />
+  <HelpKINode Title="ow_MAX_AU20 field" Url="html/3643e21f-617c-abb9-3498-70c1383a91d1.htm" />
+  <HelpKINode Title="Pride method" Url="html/e3157f44-84fc-c68b-0fde-36b52ad373ee.htm" />
+  <HelpKINode Title="Program class">
+    <HelpKINode Title="Program Class" Url="html/371ebf68-6738-8123-e140-6de5564c6236.htm" />
+    <HelpKINode Title="about Program class" Url="html/371ebf68-6738-8123-e140-6de5564c6236.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RBrowUD_MAX_AU2 field" Url="html/2423511d-f8be-62f9-ca8b-2fee5300ae79.htm" />
+  <HelpKINode Title="RBrowUD_MAX_AU4 field" Url="html/00117779-bc3c-08b6-f14f-e829db9a9fb7.htm" />
+  <HelpKINode Title="RBrowUD_MAX_AU44 field" Url="html/2fdd4378-8cb6-8a73-52a7-35a60146b7b1.htm" />
+  <HelpKINode Title="resetAllAUs method">
+    <HelpKINode Title="HapFACS.resetAllAUs Method " Url="html/fea5e89f-d0ae-9500-6123-09c5cefab8ab.htm" />
+    <HelpKINode Title="HapFACSVideo.resetAllAUs Method " Url="html/625db3e8-9437-9efc-aebf-8707c64eb5a4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="resetAU12 method" Url="html/cd69ce06-be22-0a24-5957-d5f17a48a022.htm" />
+  <HelpKINode Title="resetAU15 method" Url="html/08194b99-2e58-81b1-cf96-8a5fa166610b.htm" />
+  <HelpKINode Title="resetAU20 method">
+    <HelpKINode Title="HapFACS.resetAU20 Method " Url="html/3156f4b3-04b0-b78b-40c7-42e6e6630446.htm" />
+    <HelpKINode Title="HapFACSVideo.resetAU20 Method " Url="html/7187b007-3f3b-2a21-178c-88b20c123951.htm" />
+  </HelpKINode>
+  <HelpKINode Title="resetAU26 method" Url="html/d1666608-7ddf-30a1-2f64-c5d63424296a.htm" />
+  <HelpKINode Title="resetAU5 method" Url="html/9ab1ddaf-aae3-4c7f-362a-0263ca8902f8.htm" />
+  <HelpKINode Title="resetAU64 method" Url="html/85887ed2-994c-b577-7909-cc1f2666c022.htm" />
+  <HelpKINode Title="resetHeadAndEyeAUs method">
+    <HelpKINode Title="HapFACS.resetHeadAndEyeAUs Method " Url="html/8ec3aade-04e8-be49-9d39-75aa3e485e0c.htm" />
+    <HelpKINode Title="HapFACSVideo.resetHeadAndEyeAUs Method " Url="html/1ba647d9-809f-ba16-18a2-82be2bbba8c3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="resetLowerAUs method">
+    <HelpKINode Title="HapFACS.resetLowerAUs Method " Url="html/0132a53e-3093-b009-9865-f79031ea95b1.htm" />
+    <HelpKINode Title="HapFACSVideo.resetLowerAUs Method " Url="html/ad0ae380-4ad3-9f91-73b9-55ea1ca70098.htm" />
+  </HelpKINode>
+  <HelpKINode Title="resetUpperAUs method">
+    <HelpKINode Title="HapFACS.resetUpperAUs Method " Url="html/ade4892f-1d20-6f06-962a-70ed0526d5bb.htm" />
+    <HelpKINode Title="HapFACSVideo.resetUpperAUs Method " Url="html/6f130c5e-03bd-9c39-5992-535db6801752.htm" />
+  </HelpKINode>
+  <HelpKINode Title="REyeBallLR_MAX_AU61 field" Url="html/02c2cf13-eca6-dc7d-799c-65895b7259ae.htm" />
+  <HelpKINode Title="REyeBallLR_MAX_AU62 field" Url="html/c52750c7-edb4-923e-2c42-f35d16523ce5.htm" />
+  <HelpKINode Title="REyeBallLR_MAX_AU65 field" Url="html/ac43410d-fc1a-c7d6-e6fc-6d9dbe0b60a7.htm" />
+  <HelpKINode Title="REyeBallLR_MAX_AU66 field" Url="html/9bfca695-da20-abad-d8a9-ab7a9d458946.htm" />
+  <HelpKINode Title="REyeBallUD_MAX_AU63 field" Url="html/ffc19af4-40cb-788b-53a1-8fde42839635.htm" />
+  <HelpKINode Title="REyeBallUD_MAX_AU64 field" Url="html/9c2a300c-9ad0-a171-2288-674af063d0f1.htm" />
+  <HelpKINode Title="Sadness method" Url="html/2e8c94b6-2430-257c-da1f-81ca18b7e601.htm" />
+  <HelpKINode Title="sectorLength method" Url="html/80ce2d16-e0f3-1447-e11c-f9ea37a1f03d.htm" />
+  <HelpKINode Title="setAnimationDuration method" Url="html/7dede842-6218-b724-70a0-c87e36b6a6a1.htm" />
+  <HelpKINode Title="setAU method" Url="html/e0e0526b-4b87-0576-c567-bbf91f42999a.htm" />
+  <HelpKINode Title="setEndIntensity method" Url="html/3d0928c1-520b-9f27-3391-8ef1bbc01c8c.htm" />
+  <HelpKINode Title="setEndTime method" Url="html/fc3b509e-c246-864b-7988-8a2da315c1a5.htm" />
+  <HelpKINode Title="setSide method" Url="html/399f3e20-4038-fc9e-3e9c-81277bf0ec0a.htm" />
+  <HelpKINode Title="setStartIntensity method" Url="html/2f275c88-ef90-acc7-8c9e-7e36ff393fd8.htm" />
+  <HelpKINode Title="setStartTime method" Url="html/ae1e1e06-91e7-b30c-b3cb-57eb21ce3526.htm" />
+  <HelpKINode Title="setTextToSpeak method" Url="html/2453d06f-f21a-16e1-4294-c2162a25a674.htm" />
+  <HelpKINode Title="smile3_MAX_AU12 field" Url="html/2ac8db27-e992-46ea-0953-2391f8f5c20c.htm" />
+  <HelpKINode Title="smile3_MAX_AU6 field" Url="html/34e11222-3e53-a983-f881-4963b81f189a.htm" />
+  <HelpKINode Title="smirkL_MAX_AU14 field" Url="html/bdaa5d64-93e4-a738-6219-00a066f86659.htm" />
+  <HelpKINode Title="smirk_MAX_AU14 field" Url="html/8abce071-0e69-2fd3-e3b9-e876b8485502.htm" />
+  <HelpKINode Title="SpeakVideo method" Url="html/9e8e72be-7292-f4f6-2fbb-2e2d400c9bb6.htm" />
+  <HelpKINode Title="Surprise method" Url="html/04cd4b66-56c5-9a49-d571-56df41707034.htm" />
+  <HelpKINode Title="th_MAX_AU16 field" Url="html/20571b6a-d778-ec61-8f3f-abd91e972b0d.htm" />
+  <HelpKINode Title="th_MAX_AU20 field" Url="html/3b92681a-ae55-f6d7-cc59-672b0d1d375b.htm" />
+  <HelpKINode Title="trust_MAX_AU41 field" Url="html/776b0507-4cda-894a-4f49-123ddc6ffade.htm" />
+  <HelpKINode Title="trust_MAX_AU5 field" Url="html/02d88c01-b419-0d0b-7e9d-ad52b053f2dd.htm" />
+  <HelpKINode Title="uh_MAX_AU10 field" Url="html/1f9f6f3e-5573-f57d-16b1-5dfa0f2c1fd8.htm" />
+  <HelpKINode Title="uh_MAX_AU11 field" Url="html/8fda156b-67c1-bd30-d6c9-c9288ed7e3d1.htm" />
+  <HelpKINode Title="uw_MAX_AU22 field" Url="html/02962f6f-fabf-e285-26b3-9ca81c059934.htm" />
+</HelpKI>

@@ -1,0 +1,35 @@
+#HaptekSDK Version= 1.0  HeaderLines= 2 HapType= looklist FileType= text
+#Name= standardLookList Icon= [ thisiconpath ]
+
+EyeAttack= .05
+EyeDecay= .05
+#EyeJitter= eyeJitter
+HeadJitter= headJitter
+
+VisemeMinTime= .05
+VisemeRangeTime= .3
+VisemeScaleFactor= .2
+VisemeDirectionProb= .5
+PauseMinTime= .15
+PauseRangeTime= .3
+PauseScaleFactor= .3
+PauseDirectionProb= .5
+
+HeadAccelerationGain= 1.0
+HeadVelocityDamping= 30
+HeadVelocityLimit= 2.0
+EyeAccelerationGain= 7.5
+EyeVelocityDamping= 30
+EyeVelocityLimit= 5.0
+
+Name=		maincamera
+ResponseTime= 100000
+AttackTime= 100000
+DecayTime= 100000
+#Switch= emotions
+#State= smile
+MinDistance= 200.0
+Priority= 3
+
+}
+

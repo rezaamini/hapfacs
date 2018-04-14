@@ -1,0 +1,6 @@
+AU1 | | 0 | E | 0 | 1
+AU4 | | 0 | E | 2 | 3
+AU5 | | 0 | E | 3 | 4
+AU2 | Left | 0 | E | 4 | 5
+AU2 | Right | 0 | E | 5 | 6
+Speak | | | | 7 | Hello, my name is Reza.

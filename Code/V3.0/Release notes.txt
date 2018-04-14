@@ -1,0 +1,23 @@
+HapFACS Open Source Licence
+===========================
+Copyright 2014 Florida International University Board of Trustees
+ 
+All HapFACS users per the software license must cite the following article in any work derived from HapFACS (available at http://ascl.cs.fiu.edu/publications.html):
+R. Amini, and C. Lisetti, (2013). HapFACS: an Open Source API/Software to Generate FACS-Based Expressions for ECAs Animation and for Corpus Generation. In Proceedings of the Affective Computing and Intelligent Interactions, Geneva, 2013. 
+
+Based on a work at haptek.com.
+
+
+Changes of HapFACS 3.0 to HapFACS 2.7
+==========================
+
+(1) The possibility to change the background image and color is added.
+(2) The possibility to change the lighting is added.
+(3) The intensities of the head and eye action units are accurated.
+(4) All the characters are redesigned. New characters do not make any movements while idle. Also, a default lighting is added to the characters. Moreover, head tracking is turned of in all the characters.
+(5) The possibility to import new characters is added. To import new characters, you just need to put the character in the "Character" folder of the application. For better functionality, we suggest to put the character in one of the "FullBody", "Head", or "Torso" folders based on the type of the character.
+(6) The possibility to import new hair models is added. To import new hair models, you just need to put the hair in the "Hair" folder of the application. 
+(7) The video generation bugs of the AUM59, AUM60, AU45, and AU 46 are resolved.
+(8) New characters all added (including head only, torso, and fullbody characters).
+(9) The number of AUs in video generation is increased from 25 to 100.
+(10) The possibility of importing AUs in a text file is added for video generation.
